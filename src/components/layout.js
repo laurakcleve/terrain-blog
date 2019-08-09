@@ -11,47 +11,52 @@ class Layout extends React.Component {
 
     if (location.pathname === rootPath) {
       header = (
-        <h1
-          style={{
-            ...scale(1.5),
-            marginBottom: rhythm(1.5),
-            marginTop: 0,
-          }}
-        >
-          <Link
+          <h1
             style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
+              marginTop: 0,
+            //   ...scale(1.5),
+            //   marginBottom: rhythm(1.5),
             }}
-            to={`/`}
           >
-            {title}
-          </Link>
-        </h1>
+            <Link
+              style={{
+                boxShadow: `none`,
+                textDecoration: `none`,
+                color: `inherit`,
+              }}
+              to={`/`}
+            >
+              {title}
+            </Link>
+          </h1>
       )
     } else {
       header = (
-        <h3
-          style={{
-            fontFamily: `Montserrat, sans-serif`,
-            marginTop: 0,
-          }}
-        >
-          <Link
+          <h1
             style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
+              marginTop: 0,
             }}
-            to={`/`}
           >
-            {title}
-          </Link>
-        </h3>
+            <Link
+              style={{
+                boxShadow: `none`,
+                textDecoration: `none`,
+                color: `inherit`,
+              }}
+              to={`/`}
+            >
+              {title}
+            </Link>
+          </h1>
       )
     }
     return (
+      <>
+        <header style={{ backgroundColor: '#dfd9d2', height: '100px', paddingTop: '1.5rem'}}>
+          <div style={{ maxWidth: '42rem', margin: '0 auto'}}>
+      {header}
+      </div>
+      </header>
       <div
         style={{
           marginLeft: `auto`,
@@ -60,7 +65,6 @@ class Layout extends React.Component {
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
         }}
       >
-        <header>{header}</header>
         <main>{children}</main>
         <footer>
           © {new Date().getFullYear()}, Built with
@@ -68,6 +72,7 @@ class Layout extends React.Component {
           <a href="https://www.gatsbyjs.org">Gatsby</a>
         </footer>
       </div>
+      </>
     )
   }
 }

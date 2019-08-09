@@ -11,6 +11,34 @@ Wordpress2016.overrideThemeStyles = () => {
 
 delete Wordpress2016.googleFonts
 
+// My customizations
+Wordpress2016.overrideThemeStyles = () => ({
+  body: {
+    backgroundColor: '#3e3c3a',
+    color: '#dfd9d1'
+  },
+  'h1': {
+    fontFamily: ["Alegreya SC", "serif"].join(","),
+    fontWeight: 'normal'
+    // fontFamily: ["El Messiri", "serif"].join(","),
+  },
+  'h1, h3': {
+    color: '#403e3d',
+  },
+  'h2, h3, h4, h5, h6': {
+    fontFamily: ["Alegreya", "serif"].join(","),
+    fontWeight: 'normal'
+  },
+  'h2, a': {
+    color: '#e37a5c'
+  },
+  '.gatsby-resp-image-wrapper': {
+    maxWidth: "700px"
+  }
+})
+// Wordpress2016.headerFontFamily = ["Alegreya SC", "serif"]
+Wordpress2016.bodyFontFamily = ["Sarabun", "sans-serif"]
+
 const typography = new Typography(Wordpress2016)
 
 // Hot reload typography in development.
