@@ -12,6 +12,8 @@ There were supposed to be six pillars in total; four was the minimum, and I real
 
 I started with one pillar to test out the process, then used the refined methods on the remaining three.
 
+This project was great for using up a bunch of random foam scraps that were too small to be used for much else.
+
 ![basic-blocks](basic-blocks.jpg)
 
 Here are all the basic pieces cut out and ready to go.
@@ -42,7 +44,7 @@ For texture, I use the same method as we used on our dungeon tiles, which is to 
 
 ![all-textured](all-textured.jpg)
 
-Something I didn't do on the first test pillar was run something through the core from top to bottom, so it doesn't snap in half. Toothpicks were too short, and I had some wooden dowels that were too thick, but I found that a kitchen skewer was a pretty good thickness, and I didn't have to make any holes beforehand.
+Something I didn't do on the first test pillar was run something through the core from top to bottom, so it doesn't snap in half. I found that a kitchen skewer was a pretty good thickness, and I didn't have to make any holes beforehand.
 
 ![skewering-method](skewering-method.jpg)
 
@@ -98,7 +100,7 @@ A little different angle and lighting.
 
 ![fade-the-yellow-and-red-another-angle](fade-the-yellow-and-red-another-angle.jpg)
 
-To fade out the yellow and red a little bit more, and to lighten things up overall, I painted some grey over some of the bricks. Not a solid coat, I actually put it on kind of watered down and blotted it away with a paper towel where I put too much down.
+To fade out the yellow and red a little bit more, and to lighten things up overall, I painted some grey over some of the bricks. Not a solid coat, I actually put it on kind of watered down and blotted it away with a paper towel where I put too much on.
 
 ![more-light-grey-and-wash](more-light-grey-and-wash.jpg)
 
@@ -107,3 +109,7 @@ I wasn't getting as much shadowing around the top and bottom crevices as I wante
 ![more-wash-and-drybrushing](more-wash-and-drybrushing.jpg)
 
 And finally I did a grey dry brushing over all the edges and corners, making sure to catch the edges of any bricks that were sticking out.
+
+![final](final.jpg)
+
+They worked out really well in our final boss fight.

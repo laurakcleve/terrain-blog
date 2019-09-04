@@ -18,7 +18,7 @@ Then I sliced up some planks.
 
 ![plank-strips-1](plank-strips-1.jpg)
 
-Just whatever width looked good, this is a little less than 1/8" I think.
+Just whatever width looked good, I think this is a little less than 1/8" wide.
 
 Tweezers were necessary for every part of moving these guys around. They just fly everywhere.
 
@@ -26,7 +26,7 @@ Tweezers were necessary for every part of moving these guys around. They just fl
 
 I cut them to length, but didn't glue them on yet.
 
-First we need to add some wood plank texture to the underlying box.
+First I need to add some wood plank texture to the underlying box.
 
 ![texture-1](texture-1.jpg)
 
@@ -34,7 +34,7 @@ I use the pointy metal end of a compass to kind of draw in the edges of the plan
 
 ![texture-2](texture-2.jpg)
 
-I made a couple deep lines to outline some boards, then some fainter wavy lines around them to look like the wood grain.
+I made a couple deep lines to outline some boards, then some fainter wavy lines around them to look like the wood grain. It isn't necessary to go all the way to the edges because that's where the planks will sit.
 
 ![texture-3](texture-3.jpg)
 
@@ -89,3 +89,7 @@ I could have called it done at this point, but it was a little too dark overall,
 I tried to add a little weathering with a lighter brown, and dry brushed in kind of random spots.
 
 ![weathering](weathering.jpg)
+
+Here's the final piece, now I need to get some mass production going. I'd still like to make some in a different style, and I'd really like to figure out how to make some barrels to round out the set.
+
+![final](final.jpg)

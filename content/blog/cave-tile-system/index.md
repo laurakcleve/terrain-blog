@@ -22,7 +22,7 @@ For modularity, each piece's connecting edges are either 2, 4, or 6 inches long.
 
 ![Configuration 1](configuration-1.jpg)
 
-Pieces can also be combined with different edge lengths.
+The pieces can also be combined with different edge lengths.
 
 ![Configuration 2](configuration-2.jpg)
 
