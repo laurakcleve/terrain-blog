@@ -30,7 +30,7 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 700,
+              maxWidth: 800,
             },
           },
           {
@@ -39,9 +39,25 @@ module.exports = {
               wrapperStyle: `margin-bottom: 1.0725rem`,
             },
           },
-          `gatsby-remark-prismjs`,
+          {
+            resolve: `gatsby-remark-autolink-headers`,
+            options: {
+              icon: false
+            }
+          },
+          {
+            resolve: `gatsby-remark-custom-blocks`,
+            options: {
+              blocks: {
+                listTitle: {
+                  classes: 'list-title',
+                }
+              }
+            }
+          },
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
+          `gatsby-remark-prismjs`,
         ],
       },
     },

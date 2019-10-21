@@ -53,7 +53,7 @@ class Layout extends React.Component {
     return (
       <>
         <header style={{ backgroundColor: '#dfd9d2', height: '100px', paddingTop: '1.5rem'}}>
-          <div style={{ maxWidth: '42rem', margin: '0 auto'}}>
+          <div style={{ maxWidth: '800px', margin: '0 auto'}}>
       {header}
       </div>
       </header>

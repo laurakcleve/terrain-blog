@@ -35,6 +35,9 @@ Wordpress2016.overrideThemeStyles = () => ({
   '.gatsby-resp-image-wrapper': {
     maxWidth: "700px"
   },
+  '.gatsby-resp-image-wrapper a': {
+    boxShadow: 'none',
+  },
   '.post-item': {
     display: 'flex',
     flexWrap: 'wrap',
@@ -51,6 +54,15 @@ Wordpress2016.overrideThemeStyles = () => ({
   },
   '.post-item-text': {
     padding: '20px'
+  },
+  'ul': {
+    listStyle: 'inside'
+  },
+  'ul li': {
+    marginBottom: '0',
+  },
+  '.list-title p': {
+    marginBottom: '10px'
   }
 })
 // Wordpress2016.headerFontFamily = ["Alegreya SC", "serif"]
