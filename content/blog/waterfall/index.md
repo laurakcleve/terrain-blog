@@ -1,7 +1,7 @@
 ---
 title: Cavern waterfall
-date: "2019-08-26"
-description: "Waterfall for the river tiles in the cave"
+date: "2019-09-26"
+description: "Making a waterfall for the river tiles in our cave"
 featuredImage: "./final-setup.jpg"
 ---
 

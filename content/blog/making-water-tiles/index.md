@@ -1,11 +1,11 @@
 ---
 title: Making Water Tiles
-date: "2019-08-26"
+date: "2019-10-02"
 description: "Making a river for our cavern dungeon"
 featuredImage: "./all-finished.jpg"
 ---
 
-After finishing the [test water piece](../first-water-effects-prototype), it's time to make the river tiles that will fit into the finished cavern (More on the cave tiles [here](./cave-tile-system)).
+After finishing the [test water piece](../first-water-effects-prototype), it's time to make the river tiles that will fit into the finished cavern (More on the cave tiles [here](../cave-tile-system)).
 
 I had originally planned to make modular pieces of river to sit on top of the existing tiles, but since I hadn't come up with a good looking technique for texturing the outer edges (banks) of the river that I could get done in a short amount of time, I had to build the river right into the tiles.
 
@@ -55,7 +55,7 @@ We did use the same painting technique as I did for the [prototype pool](./water
 
 ![painted-closeup-3](painted-closeup-3.jpg)
 
-For pouring the resin, I followed [this tutorial from Hirst Arts](http://www.hirstarts.com/tips17/tips17.html#plan) as closely as I could for my situation.
+For pouring the resin, I followed <a href="http://www.hirstarts.com/tips17/tips17.html#plan" target="_blank" rel="noopener noreferrer">this tutorial from Hirst Arts</a> as closely as I could for my situation.
 
 This involved using scraps of foam with clear packing tap covering one side to cover the ends of the river at the edges of the tiles.
 
@@ -63,7 +63,7 @@ This involved using scraps of foam with clear packing tap covering one side to c
 
 This worked well for the flat edges of the tiles, but at the ends of the river where it leaves the tile at a curved edge, a flat piece of foam would not be able to seal it.
 
-(I could have ended the river just short of the edges of the tiles and eliminated this problem entirely, but I didn't want the river to start and end from nowhere, I wanted it to be coming from and going somewhere, so I chose to make my life more difficult.)
+I could have ended the river just short of the edges of the tiles and eliminated this problem entirely, but I didn't want the river to start and end from nowhere, I wanted it to be coming from and going somewhere, so I chose to make my life more difficult.
 
 ![curved-edge-1](curved-edge-1.jpg)
 

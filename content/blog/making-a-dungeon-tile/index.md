@@ -1,11 +1,11 @@
 ---
 title: Making a Dungeon Tile
-date: "2019-09-01"
+date: "2019-10-20"
 description: "Making a rectangular dungeon tile for use in a cavern"
-featuredImage: "./base-coat.jpg"
+featuredImage: "./final-setup.jpg"
 ---
 
-![base-coat](base-coat.jpg)
+![dry-brush-3-finished](dry-brush-3-finished.jpg)
 
 These dungeon tiles are brown to match the cavern tiles in our [cave tile set](../cave-tile-system). Each side is either 2, 4, or 6 inches long. In this post I'll be going through how to make a 2x6-inch tile.
 
@@ -41,27 +41,31 @@ This is the other way I wanted to try, going right along the edge of the groove 
 
 ![cutting-position](cutting-position.jpg)
 
-Anyway, this is what we have after the cut.
+This way didn't end up looking as seamless as I thought it would. Here's a comparison between the finished version of this tile (left), and another tile where I made the cut right down the center of the groove (right):
+
+![seam-comparison](seam-comparison.jpg)
+
+Back at our hot wire table, this is what we have after the cut.
 
 ![cut-in-half](cut-in-half.jpg)
 
-Two pieces that will fit nicely.
+Two pieces that will fit under the cutter arm nicely.
 
 ![grooves-vertical](grooves-vertical.jpg)
 
-Now we can stick them back together.
+After melting in the lengthwise grooves (remembering to go down the sides on each end) we can stick the two halves back together.
 
 For a little added stability I'm putting a piece of toothpick inside.
 
 ![putting-together-1](putting-together-1.jpg)
 
-Looking at this much later I realize that piece of toothpick is woefully short. Still, they're probably not useless.
+Looking at this later I realize that piece of toothpick is woefully short. Still, it's probably not completely useless.
 
-I poke a hole in one side, stick the piece of toothpick in, then line it up with the other half, using the toothpick to make an indentation where I'll poke the other hole.
+We poke a hole in one side, stick the piece of toothpick in, then line it up with the other half, using the toothpick to make an indentation where we'll poke the other hole.
 
 ![putting-together-2](putting-together-2.jpg)
 
-Then I remove the toothpick, fill the hole with some white glue (I used tacky glue, regular old PVA glue is also fine) and put in the toothpick. Then I cover everything with more glue like so:
+Then remove the toothpick, fill the hole with some white glue (I used tacky glue, regular old PVA glue is also fine) and put the toothpick back in. Then cover everything with more glue like so:
 
 ![glue](glue.jpg)
 
@@ -83,7 +87,7 @@ Now we're ready to start texturing.
 
 ![glued](glued.jpg)
 
-First, to round down those sharp edges, we're going to slice them off with an exacto knife.
+First, to wear down those sharp edges, we're going to slice them off with an exacto knife.
 
 ![cutting-edges](cutting-edges.jpg)
 
@@ -128,3 +132,55 @@ The first coat is mod podge mixed with some of the main base color of paint; in 
 Then a second coat of the same color, without the mod podge. I've found that having mod podge in this second coat makes the wash (which is the next step) not stick very well.
 
 ![second-coat](second-coat.jpg)
+
+When the second coat is dry, we do a dark brown wash. This wash is some dark brown paint, a little black paint, a lot of water, and a drop of dish soap. You can be very liberal brushing this on, you can see I've put on so much it dripped all over.
+
+![wash](wash.jpg)
+
+Make sure to move it around every so often while it's drying, so it doesn't get stuck to the cardboard, or whatever you're setting it on.
+
+After the final long wait, here it is all dry.
+
+![wash-dried](wash-dried.jpg)
+
+Next thing we're going to do is take our main base color, light taupe for this tile, and give the whole tile a really heavy dry brushing.
+
+Here I've done the dry brushing on the top row of tiles.
+
+![dry-brush-1-progress](dry-brush-1-progress.jpg)
+
+And then the whole thing.
+
+![dry-brush-1-finished](dry-brush-1-finished.jpg)
+
+Next we start on some highlights. For our first highlight we used DecoArt's Fawn, which is a very fleshy color. But any brown that's lighter than the base color should do.
+
+![dry-brush-2-paints](dry-brush-2-paints.jpg)
+
+This time we're doing a much lighter dry brushing, focusing on the edges and corners on the individual tiles, and any raised edges of the cracks and chips that we want to bring out.
+
+In this picture I've done the highlights only on the bottom row.
+
+![dry-brush-2-progress](dry-brush-2-progress.jpg)
+
+The effect is very subtle here, it's more noticeable in person.
+
+Here's the first round of highlights all done.
+
+![dry-brush-2-finished](dry-brush-2-finished.jpg)
+
+The last color is an even lighter brown. We used Folk Art's Camel, which is really more of a yellow.
+
+![dry-brush-3-paints](dry-brush-3-paints.jpg)
+
+It's very bright compared to the other colors, so we have to make sure that we have barely any on the brush when we do this last coat, and that we brush it on very sparingly.
+
+![dry-brush-3-finished](dry-brush-3-finished.jpg)
+
+I was being so cautious with it that it's hard to pick it out in this picture.
+
+And with that, this tile is complete. An optional step you could add onto the end would be to spray on a couple coats of a matte polyurethane spray; this will add some durability to your paint job and keep it from sticking to other tiles.
+
+Here's our new tile as part of the set.
+
+![final-setup](final-setup.jpg)

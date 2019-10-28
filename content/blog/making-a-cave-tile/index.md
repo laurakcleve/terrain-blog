@@ -1,9 +1,11 @@
 ---
 title: Making a Cave Tile
-date: "2019-09-01"
+date: "2019-10-15"
 description: "How to make a modular tile for use in a cavern"
-featuredImage: "./final.jpg"
+featuredImage: "./final-setup.jpg"
 ---
+
+![final-setup](final-setup.jpg)
 
 This post shows the process for making the natural cavern tiles from our modular [cave tile system](../cave-tile-system).
 

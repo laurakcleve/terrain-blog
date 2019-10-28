@@ -1,41 +1,49 @@
 ---
 title: Cave Tile System
-date: "2019-08-09"
+date: "2019-10-26"
 description: "Spoilers: Lost Mines of Phandelver"
 featuredImage: "./matching-edges.jpg"
 ---
 
-This post is an overview of the conception and creation of our cavern tile set. It was made specially for the Lost Mines of Phandelver campaign, so the pictures reveal some of the later content.
+![Cave Tile System](cave-tile-system-1.jpg)
 
-[[listTitle]]
-| Jump to:
+This post is the tale of the creation of our cavern tile set for tabletop dungeons. It was conceived mostly from a dungeon in the Lost Mines of Phandelver campaign, but ultimately made to be a generic, scalable set for playing D&D. We'll be using it for all the caverns to come.
+
+<div class="note">
+  <i class="fas fa-exclamation-circle"></i>
+  <p>Since this dungeon set revolves so much around Lost Mines of Phandelver, there are pictures below that show some of the later content.</p>
+</div>
+
+As a short introduction, I got into D&D with my husband Jimmy about a year and a half ago, and we started getting into making terrain 8 or 9 months ago. For this first campaign, everyone in our group was brand new, and Jimmy took up the mantle of DM. Being a player in the campaign, but still really really wanting to do the terrain anyway, I had to do what I could while knowing as little as possible about the dungeon we were making it for. I got the full story after the campaign was over, and have detailed the crafting journey here in its entirety.
+
+As such, this post ended up being quite long. I go through how we started out, decisions that were made about the design of the whole set, some details about the actual building (but not the actual crafting process, you can find links to that below), the problems we faced, and more. I've added some jump links below for your convenience.
+
+Also, click the image links to see them at full resolution. Some have much better detail, and unfortunately some that I took with my potato phone don't look better at all.
+
+<p class='list-title'>Jump to (in page):</p>
 
 - [The Build](#starting-the-build)
 - [The Features](#the-cool-features)
 - [The Hiccups](#the-hiccups-and-lessons-learned)
-- [The Lessons Learned](#final-lessons)
+- [The Bonus Lessons](#some-extra-lessons-and-tips)
 
-[[listTitle]]
-| You can find the step-by-step processes for the different kind of tiles involved here:
+<p class='list-title'>You can find the step-by-step processes for the different kind of tiles involved here:</p>
 
-- [Cave tiles](../making-a-cave-tile/)
-- [Rectangular dungeon tiles](../)
-- [Water tiles](../making-water-tiles)
+- [Cave tiles](../making-a-cave-tile/)<i class="fas fa-external-link-alt fa-xs"></i>
+- [Rectangular dungeon tiles](../making-a-dungeon-tile/)<i class="fas fa-external-link-alt fa-xs"></i>
+- [Water tiles](../making-water-tiles)<i class="fas fa-external-link-alt fa-xs"></i>
 
-[[listTitle]]
-| And some of the extra pieces here:
+<p class='list-title'>And some of the extra pieces here:</p>
 
-- [Stone pillars](../stone-pillars)
-- [Waterfall](../waterfall)
-- [Small water pool (the water test)](../water-effects-prototype)
+- [Stone pillars](../stone-pillars)<i class="fas fa-external-link-alt fa-xs"></i>
+- [Waterfall](../waterfall)<i class="fas fa-external-link-alt fa-xs"></i>
+- [Small water pool (the water test)](../water-effects-prototype)<i class="fas fa-external-link-alt fa-xs"></i>
 
-![Cave Tile System](cave-tile-system-1.jpg)
-
-Our first D&D campaign lasted a little over a year. Everyone was brand new, and there was much exploring to be done. Starting out, our battle maps were drawn on grid paper, and we didn't even know that building your own terrain was even a thing. Our first exposure was [Black Magic Craft](https://www.youtube.com/channel/UC2Rlv-ug-mtnXuMwlpcqFgg), where we randomly found the video for building a ruined tower out of foam. After watching that we were immediately down the rabbit hole and bought a hot wire table and all the supplies we would need. For our first attempt we followed the [Basic Dungeon Tiles](https://www.youtube.com/watch?v=kxzUm3rFzBs) video to craft a small set of our own tiles. We made different sizes to match our next dungeon, and it made for an extra awesome session. We felt so extravagant.
+Our first D&D campaign lasted a little over a year. Since everyone was new, there was much exploring to be done. Starting out, our battle maps were drawn on grid paper, and we didn't even know that building your own terrain was even a thing. Our first exposure was <a href="https://www.youtube.com/channel/UC2Rlv-ug-mtnXuMwlpcqFgg" target="_blank" rel="noopener noreferrer">Black Magic Craft</a>, where we randomly found the video for building a ruined tower out of foam. After watching that we were immediately down the rabbit hole and bought a hot wire table and all the supplies we would need. For our first attempt we followed the <a href="https://www.youtube.com/watch?v=kxzUm3rFzBs" target="_blank" rel="noopener noreferrer">Basic Dungeon Tiles</a> video to craft a small set of our own tiles. We made different sizes to match our next dungeon, and it made for an extra awesome session. We felt so extravagant.
 
 ![original-tiles](original-tiles.jpg)
 
-Instead of making more tiles for each battle map after that, we wanted to go all out on the final dungeon of the campaign, which was quite a ways away but would take a whole lot of prep time. Because this dungeon is huge. Printed or crafted at a 1 inch = 5 feet scale, the thing ends up being something like 6x8 feet in total. And we wanted to build the whole thing. We didn't really know how we'd do it all, so we just started at the beginning of the dungeon and would just have to see what we could pull off.
+Instead of making more tiles for each battle map after that, we wanted to go all out on the final dungeon of the campaign, which was quite a ways away but would take a whole lot of prep time. Because this dungeon is HUGE. Printed or crafted at a 1 inch = 5 feet scale, the thing ends up being something like 6x8 feet in total. And we wanted to build the whole thing. We didn't really know how we'd do it all, so we just started at the beginning of the dungeon and would just have to see what we could pull off.
 
 This dungeon was meant to be natural caverns with some parts carved and constructed into rooms and passages, so we had two different kinds of tiles that needed to be made: cavern tiles with irregular shapes, and the more classic dungeon tiles that are rectangular or square.
 
@@ -54,7 +62,7 @@ I originally wanted to put walls along all the edges, but we decided to make it 
 
 Our first batch consisted of the first room of the cave, plus a short way in each direction further in. (There was indeed no time to add walls at the end.)
 
-The first setup: (extra props were all hand crafted)
+The first setup: (extra props were all hand crafted, including that little rope hanging down from the stalagmite)
 
 ![first-setup](first-setup.jpg)
 
@@ -66,7 +74,7 @@ After that we kept expanding the dungeon between sessions, trying to keep ahead 
 
 ![progress-2](progress-2.jpg)
 
-Near the end (after months of pumping out tiles), we were really feeling it. We were barely keeping up, and the burnout was setting in. So we started reusing the tiles we’d already made everywhere we could. The modularity of the tile set really came through here, thankfully.
+Near the end, after months of pumping out tiles, we were really feeling the burnout, and barely keeping up. So we started reusing the tiles we’d already made everywhere we could. The modularity of the tile set really came through here, thankfully.
 
 ![another-setup-1](another-setup-1.jpg)
 
@@ -148,13 +156,15 @@ But on the natural ground tiles, the texturing technique, among other things, wa
 
 ![comparison](comparison.jpg)
 
-These tiles are from different points along the several-months-long journey. The top left one is the very first. He was the prototype, where we tried out all our new ideas and mixed our different colors just the way we wanted. This was probably the biggest mistake of the whole project. When it came time to make all the rest of the tiles in exactly the same way, it was pretty much impossible. The texturing came out totally different, and for some reason, I did not have the presence of mind to write down the colors and amounts of the paints I mixed for the first tile. It took a very long time to get close enough to the original mystery color, and then over time we realized that the way it came out was totally dependent on the underlying colors in each coat, and the thickness of each layer of paint, and seemingly endless other things.
+These tiles are from different points along the several-months-long journey. The top left one is the very first. He was the prototype, where we tried out all our new ideas and mixed our different colors just the way we wanted. This was probably the biggest mistake of the whole project. When it came time to make all the rest of the tiles in exactly the same way, it was pretty much impossible. The texturing came out totally different, and for some reason, I did not have the presence of mind to write down the colors and amounts of the paints I mixed for the first tile. It took several hours at least, of many attempts, to get close enough to the original mystery color, and then over time we realized that the way it came out was totally dependent on the underlying colors in each coat, and the thickness of each layer of paint, and seemingly endless other things.
 
 ![comparison-1](comparison-1.jpg)
 
 My attempts at getting colors right:
 
 ![notes](notes.jpg)
+
+These are by no means instructions that anyone should follow. This is just my trial and error, to show a little of how much failure was going on.
 
 In later batches, after a lot of failing and many hours of retexturing and repainting, we vowed never to use custom-mixed paints again, and I went down to Michael's and bought every shade of brown they had. We settled on a new set of colors that was clearly different from the previous tiles, but close enough.
 
@@ -174,13 +184,14 @@ The grand total number of pieces made for this set is 124; 64 irregular cave til
 
 ![piles-of-tiles](piles-of-tiles.jpg)
 
-## Final lessons:
+## Some extra lessons and tips:
 
-1. If you're going to make a tile set for a particular dungeon, start making the pieces that are at the end of the dungeon and work your way backwards. Then if you fall behind, you won't have to go back to grid paper or something after having had the luxury of awesome custom made tiles and you can look cool all the way to the end.
+1. If you're making a set for a dungeon that you'll be on a timeline for, make sure you allot enough time for making all the tiles you'll need. Calculate the time it takes to make a batch, if you're going that route, and how much time it will take you overall. And then add some more, because it will always take longer than you think.
 2. Make your tiles in one batch, if you can. It's amazingly hard to go back and match colors and techniques. If you do have to go in batches, document your process very thoroughly. Don't believe yourself when you say you're sure you'll remember how you did it the first time.
 3. When you decide on your paint colors, stock up. There's no telling when they're going to disappear off the shelves, and trying to replicate a color is a real pain.
 4. Finish up with a couple of coats of a matte or satin polyurethane spray. This is something I only got around to doing on the first batch we made. When you stack these boys and leave them for a while, they're likely to stick together in places. I had some sticking going on even weeks after they were finished.
 
-This was an enormous and overly ambitious endeavor, and making a set like this is probably more time and effort than most people are going to want to put in. If you're looking for something that's going to take less time and that you can mass produce more easily, I'd take a look at the [cave tiles from Black Magic Craft](https://www.youtube.com/watch?v=wNL4Y06-8JE). We took some inspiration from his process, but we wanted to take it a few steps further when it came to the design, the shapes, the natural look of the textures and colors, etc. and I think the amount of work it took was worth it, and we have caves for the rest of our lives.
+This was an enormous and overly ambitious endeavor, and making a set like this is probably more time and effort than most people are going to want to put in. If you're looking for something that's going to take less time and that you can mass produce more easily, I'd take a look at the <a href="https://www.youtube.com/watch?v=wNL4Y06-8JE" target="_blank" rel="noopener noreferrer">cave tiles from Black Magic Craft</a>. We took some inspiration from his process, but we wanted to take it a few steps further when it came to the design, the shapes, the natural look of the textures and colors, etc. and I think the amount of work it took was worth it, and we have caves for the rest of our lives.
 
+_Here's another bonus shot of a multi-level part of the dungeon. We used some of the rectangular tiles to improvise some walls and stairs, because we didn't have time to make any._
 ![alternate-final-setup](alternate-final-setup.jpg)

@@ -61,8 +61,27 @@ Wordpress2016.overrideThemeStyles = () => ({
   'ul li': {
     marginBottom: '0',
   },
-  '.list-title p': {
+  '.list-title': {
     marginBottom: '10px'
+  },
+  '.fa-external-link-alt': {
+    marginLeft: '7px',
+    // color: '#e37a5c'
+  },
+  '.note': {
+    display: 'flex',
+    marginBottom: '1.75rem'
+  },
+  '.note p': {
+    fontStyle: 'italic',
+    marginBottom: '0'
+  },
+  '.note svg': {
+    marginTop: '6px',
+    marginRight: '13px'
+  },
+  'svg.logo': {
+    height: '95px'
   }
 })
 // Wordpress2016.headerFontFamily = ["Alegreya SC", "serif"]

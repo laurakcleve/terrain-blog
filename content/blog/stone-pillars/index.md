@@ -1,6 +1,6 @@
 ---
 title: Stone Pillars
-date: "2019-08-06"
+date: "2019-10-09"
 description: "Standard stone dungeon pillars"
 featuredImage: "./final-2.jpg"
 ---
@@ -59,8 +59,6 @@ The largest top and bottom pieces are left without holes, but the second largest
 
 I then cut a piece of skewer the length of the pillar minus the very top and bottom blocks, (not including a pointy end).
 
-I could also have left the blocks on the skewer, slid them around to get glue in between them, and then cut the skewer down to size afterwards. I just didn't think of it at the time. (Maybe there's a problem with that that I just can't remember now).
-
 ![stacking-1](stacking-1.jpg)
 
 I glued the bottom two pieces together, then glued the cut skewer into the hole of the second piece.
@@ -95,7 +93,7 @@ Next I went to the plain black wash over everything.
 
 ![first-wash](first-wash.jpg)
 
-It seemed not to stick too well. The wash might have been too thin and watered down; at this point it hasn't done much to subdue the red and yellow.
+It seemed not to stick too well. It might have been that the mod podge coat was a little too slick for the wash to soak in at all. I probably should have put on a second coat of just paint. Either way, at this point it hasn't done much to subdue the red and yellow.
 
 So I put more black wash on, and I did a brown wash in some spots, mostly over the yellow and red.
 

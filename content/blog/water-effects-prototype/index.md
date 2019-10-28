@@ -1,7 +1,7 @@
 ---
 title: First Water Effects Prototype
-date: "2019-08-20"
-description: "Testing water effects for a small modular river system"
+date: "2019-09-20"
+description: "Testing water effects for a small river system"
 featuredImage: "./sitting-on-cave-tiles.jpg"
 ---
 

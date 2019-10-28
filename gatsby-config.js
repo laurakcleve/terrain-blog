@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Three Trees Terrain`,
+    title: `1d3Trees`,
     author: `Laura Cleveland`,
-    description: `A place to make terrain`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Tabletop DIY`,
+    siteUrl: `https://1d3trees.com/`,
     social: {
       twitter: ``,
     },
@@ -45,16 +45,6 @@ module.exports = {
               icon: false
             }
           },
-          {
-            resolve: `gatsby-remark-custom-blocks`,
-            options: {
-              blocks: {
-                listTitle: {
-                  classes: 'list-title',
-                }
-              }
-            }
-          },
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
           `gatsby-remark-prismjs`,
@@ -79,7 +69,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/icon.png`,
       },
     },
     `gatsby-plugin-offline`,
@@ -90,5 +80,13 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
+    {
+      resolve: `gatsby-plugin-react-svg`,
+      options: {
+        rule: {
+          include: /assets/
+        }
+      }
+    }
   ],
 }
