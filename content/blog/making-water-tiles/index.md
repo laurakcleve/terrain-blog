@@ -17,21 +17,21 @@ Here's the outline of the river for the first piece penciled in. I started paint
 
 It sort of worked, though it didn't do anything to the caulk at all.
 
-![melting-2](melting-2.jpg)
-
 I had to peel off a lot of bits of paint and caulk, which was pretty tedious, and then I used more nail polish remover to melt it down to a riverbed sort of shape.
 
-![base-coat](base-coat.jpg)
+![melting-2](melting-2.jpg)
 
 Then the base coat of mod podge/dark taupe paint went on.
 
+![base-coat](base-coat.jpg)
+
+The pencil lines ae really hard to see here, but this is the outline for the rest of the river in this section.
+
 ![full-outline](full-outline.jpg)
 
-The pencil lines are really hard to see here, but this is the outline for the rest of the river in this section.
+I kept running into the problem of the paint getting in the way and not dissolving enough. It took an awful lot of acetone to get through the layers of paint, and using so much made it so that the acetone would eat away at the foam underneath before I could get enough of the paint off.
 
 ![melting-3](melting-3.jpg)
-
-I kept running into the problem of the paint getting in the way and not dissolving enough. It took an awful lot of acetone to get through the layers of paint, and using so much made it so that the acetone would eat away at the foam underneath before I could get enough of the paint off.
 
 I found it better to brush some acetone onto the paint to soften it up, and then scrape it off.
 
@@ -39,9 +39,9 @@ I found it better to brush some acetone onto the paint to soften it up, and then
 
 After all the paint was cleared away I was able to melt the foam in a much more controlled way.
 
-![all-melted](all-melted.jpg)
-
 All the pieces for this section are ready to be painted.
+
+![all-melted](all-melted.jpg)
 
 I don't have pictures of the painting process for these tiles, because we were in crunch mode, it was late at night, and the light we were painting by was terrible.
 
@@ -55,9 +55,9 @@ We did use the same painting technique as I did for the [prototype pool](./water
 
 ![painted-closeup-3](painted-closeup-3.jpg)
 
-For pouring the resin, I followed <a href="http://www.hirstarts.com/tips17/tips17.html#plan" target="_blank" rel="noopener noreferrer">this tutorial from Hirst Arts</a> as closely as I could for my situation.
+For pouring the resin, I followed <a href="https://hirstarts.com/tips17/tips17.html#plan" target="_blank" rel="noopener noreferrer">this tutorial from Hirst Arts</a> as closely as I could for my situation.
 
-This involved using scraps of foam with clear packing tap covering one side to cover the ends of the river at the edges of the tiles.
+This involved using scraps of foam with clear packing tape covering one side to cover the ends of the river at the edges of the tiles.
 
 ![taped-foam-piece](taped-foam-piece.jpg)
 
@@ -93,7 +93,7 @@ I made some really difficult angles for myself, the wasps were super interested 
 
 ![epoxy-2](epoxy-2.jpg)
 
-As soon as they seemed decently dry, it was right to the pouring. I wanted a full two days for them to cure before I handled them, so I had to get this part done quickly.
+As soon as they seemed decently dry (I only waited a few minutes longer after finishing the epoxy), it was right to the pouring. I wanted a full two days for them to cure before I handled them, so I had to get this part done quickly.
 
 ![all-epoxied](all-epoxied.jpg)
 
@@ -101,13 +101,13 @@ The first pour, the scariest part.
 
 ![first-pour](first-pour.jpg)
 
-Got them all done in pretty good time.
+Spent about 20 minutes doing the rest of the pouring and wracking my nerves.
 
 ![all-poured](all-poured.jpg)
 
 In hindsight, I should not have filled the riverbeds with resin up to the very top of the edge. The way I painted them, the green came up all the way to the level of the ground, so that is where I filled them to.
 
-In addition, I had checked that my surface was level beforehand, but after pouring the resin some of it looked...not quite level. I used a few paper towels to try and correct it, and that was probably a mistake.
+In addition, I had checked that my surface was level beforehand, but after pouring the resin some of the levels looked off in some way. I tucked in a few paper towels under the cardboard to try and correct it, and that was probably a mistake.
 
 And here we see the first problem child to emerge.
 
@@ -119,15 +119,15 @@ Over the next hour or so we started seeing more overflowing, even on straight ed
 
 ![more-leaks-1](more-leaks-1.jpg)
 
-I was really puzzled here because the overall level of the resin seemed to be far enough below the ground level on other parts of the tiles. I could almost swear that the resin was expanding somehow.
+I was really puzzled here because the overall level of the resin seemed to be far enough below the ground level on other parts of the tiles. It was almost like the resin was expanding or something.
 
 This was a particularly bad one, though it looks like the tile itself is just too uneven.
 
 ![more-leaks-2](more-leaks-2.jpg)
 
-There was nothing to be done about it but to wait and see how they turned out.
+There was nothing to be done about it but to wait and see how they turned out. I had an overblown fear that all the resin would leak out overnight, so I covered the whole floor around the table with newspapers and cardboard just to be safe.
 
-After the first night of curing, (thankfully we didn't wake up to a lake of spilled resin) a lot of bubbles had formed.
+After the first night of curing, (thankfully there was no lake of spilled resin) a lot of bubbles had formed.
 
 ![bubbles](bubbles.jpg)
 

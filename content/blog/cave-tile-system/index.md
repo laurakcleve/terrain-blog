@@ -1,8 +1,8 @@
 ---
 title: Cave Tile System
 date: "2019-10-26"
-description: "Spoilers: Lost Mines of Phandelver"
-featuredImage: "./matching-edges.jpg"
+description: "Our modular tile set (Spoilers: Lost Mines of Phandelver)"
+featuredImage: "./cave-tile-system-1.jpg"
 ---
 
 ![Cave Tile System](cave-tile-system-1.jpg)
