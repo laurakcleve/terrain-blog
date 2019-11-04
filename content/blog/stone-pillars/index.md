@@ -17,9 +17,9 @@ There were supposed to be six pillars in total for the upcoming dungeon; four wa
 
 I started with one pillar to test out the process, then used the refined methods on the remaining three.
 
-![basic-blocks](basic-blocks.jpg)
-
 Here are all the basic pieces cut out and ready to go. This project was great for using up a bunch of random foam scraps that were too small to be used for much else.
+
+![basic-blocks](basic-blocks.jpg)
 
 To make the brick pattern, I used the hot wire cutter to make a small indentation, the same way we make the grooves in our [dungeon tiles](../making-a-dungeon-tile). For these stacking blocks I make the grooves at two-thirds of the width of each block, on each of the sides. (Only for the center blocks, not for the larger blocks at the top and bottom of course.)
 
@@ -57,19 +57,17 @@ The largest top and bottom pieces are left without holes, but the second largest
 
 ![skewered](skewered.jpg)
 
-I then cut a piece of skewer the length of the pillar minus the very top and bottom blocks, (not including a pointy end).
+I then cut a piece of skewer the length of the pillar minus the very top and bottom blocks, (not including a pointy end). I glued the bottom two pieces together, then glued the cut skewer into the hole of the second piece.
 
 ![stacking-1](stacking-1.jpg)
 
-I glued the bottom two pieces together, then glued the cut skewer into the hole of the second piece.
+Then each brick piece was stacked with glue, making sure that the grooves are on alternating sides.
 
 ![stacking-2](stacking-2.jpg)
 
-Then each brick piece was stacked with glue, making sure that the grooves are on alternating sides.
+I had to enlarge a hole here and there to get the blocks to line up.
 
 ![stacked-with-a-bigger-hole](stacked-with-a-bigger-hole.jpg)
-
-I had to enlarge a hole here and there to get the blocks to line up.
 
 Once all the tops are on it's on to the painting.
 
