@@ -4,6 +4,7 @@ import PropTypes from 'prop-types'
 
 import Layout from '../components/layout'
 import SEO from '../components/seo'
+import Comments from '../components/comments'
 
 const BlogPostTemplate = ({ data, pageContext }) => {
   const post = data.markdownRemark
@@ -43,6 +44,8 @@ const BlogPostTemplate = ({ data, pageContext }) => {
       <Link to="/" className="bottom-home">
         Home
       </Link>
+
+      <Comments />
     </Layout>
   )
 }
