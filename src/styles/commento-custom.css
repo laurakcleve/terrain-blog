@@ -1,0 +1,44 @@
+.commento-root {
+  margin-top: 30px;
+}
+
+.commento-root * {
+  color: #dfd9d1 !important;
+  font-family: 'Sarabun' !important;
+}
+
+.commento-mod-tools::before {
+  color: #a4add0 !important;
+}
+
+.commento-mod-tools-lock-button {
+  color: #a49587 !important;
+}
+
+.commento-markdown-button {
+  color: #797673 !important
+}
+
+.commento-submit-button {
+  background-color: #e37a5c !important;
+}
+
+.commento-name {
+  color: #dfd9d1 !important;
+}
+
+.commento-option-remove {
+  background-color: #f46565 !important;
+}
+
+.commento-logo-text {
+  color: #797673 !important
+}
+
+textarea {
+  background: #514e4d !important
+}
+
+textarea::placeholder {
+  color: #fff !important;
+}
