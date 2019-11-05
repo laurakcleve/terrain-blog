@@ -3,8 +3,19 @@
 }
 
 .commento-root * {
-  color: #dfd9d1 !important;
   font-family: 'Sarabun' !important;
+}
+
+.commento-root textarea, 
+.commento-root .commento-markdown-button b, 
+.commento-login-text,
+.commento-body p {
+  color: #dfd9d1 !important;
+}
+
+.commento-option-collapse,
+.commento-option-uncollapse {
+  background: #dfd9d1 !important;
 }
 
 .commento-mod-tools::before {

@@ -45,7 +45,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
         Home
       </Link>
 
-      <Comments />
+      <Comments id={data.markdownRemark.id} />
     </Layout>
   )
 }
