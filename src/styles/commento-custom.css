@@ -6,10 +6,15 @@
   font-family: 'Sarabun' !important;
 }
 
+.commento-dark-card {
+  background: transparent !important;
+}
+
 .commento-root textarea, 
 .commento-root .commento-markdown-button b, 
 .commento-login-text,
-.commento-body p {
+.commento-body p,
+.commento-anonymous-checkbox-container input[type="checkbox"] + label {
   color: #dfd9d1 !important;
 }
 
@@ -22,12 +27,17 @@
   color: #a4add0 !important;
 }
 
-.commento-mod-tools-lock-button {
+commento-mod-tools button {
   color: #a49587 !important;
 }
 
 .commento-markdown-button {
   color: #797673 !important
+}
+
+.commento-round-check input[type="checkbox"] + label::before {
+  background: #e37a5c !important;
+  border: 1px solid #e1ae9f !important;
 }
 
 .commento-submit-button {
