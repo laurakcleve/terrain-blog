@@ -27,7 +27,7 @@
   color: #a4add0 !important;
 }
 
-commento-mod-tools button {
+.commento-mod-tools button {
   color: #a49587 !important;
 }
 
@@ -36,8 +36,8 @@ commento-mod-tools button {
 }
 
 .commento-round-check input[type="checkbox"] + label::before {
-  background: #e37a5c !important;
-  border: 1px solid #e1ae9f !important;
+  background: transparent !important;
+  border: 1px solid #dfd9d1 !important;
 }
 
 .commento-submit-button {
