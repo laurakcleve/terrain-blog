@@ -9,7 +9,7 @@ featuredImage: "./final-setup.jpg"
 
 This post shows the process for making the natural cavern tiles from our modular [cave tile system](../cave-tile-system).
 
-The piece we're making was first cut into a 4x6-inch rectangle, then the rough edges were cut freehand on the hot wire cutter.
+These are made using 1/2-inch thick XPS insulation foam. The piece we're making in this post was first cut into a 4x6-inch rectangle, then the rough edges were cut freehand on the hot wire cutter.
 
 Different tile, but same method:
 ![cutting-edges](cutting-edges.jpg)
@@ -56,6 +56,8 @@ After that it's time for painting.
 
 The base coat is our standard mix of mod podge and the base color, a light taupe. About a half and half mix, but the amounts don't really matter.
 
+It's nearly impossible to get the paint into all of the grid marks, but that's perfectly fine because the dark wash will take care of those.
+
 ![base-coat](base-coat.jpg)
 
 Once that's dry, we add a second coat of just paint.
@@ -87,6 +89,22 @@ The first round of highlights is done with a lighter brown, just dry brushed on 
 The final highlights are done with a light brownish yellow, and brushed on even more sparingly.
 
 ![dry-brush-3](dry-brush-3.jpg)
+
+To set up the magnets, we screw some small screws into the flat edges of the tile. They should be flat-topped because the magnets will sit right on the head.
+
+![screws-used](screws-used.jpg)
+
+We use a screwdriver to screw them into the center of each 2-inch segment. So since the edge below is 6 inches, we have screws at inch 1, 3, and 5.
+
+![three-screws](three-screws.jpg)
+
+And on the 2-inch edge, just one in the middle.
+
+![one-screw](one-screw.jpg)
+
+Then we use some tiny magnets between the pieces we want to connect. These are 1mmx5mm, which matches the screw head size just about perfectly.
+
+![magnets](magnets.jpg)
 
 And there's the finished tile. A good extra step would be to put on one or two coats of a matte or satin polyurethane spray, which I haven't gotten around to for the latest ones yet.
 

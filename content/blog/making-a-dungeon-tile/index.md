@@ -9,7 +9,7 @@ featuredImage: "./final-setup.jpg"
 
 These dungeon tiles are brown to match the cavern tiles in our [cave tile set](../cave-tile-system). Each side is either 2, 4, or 6 inches long. In this post I'll be going through how to make a 2x6-inch tile.
 
-Starting out, we need a 2x6-inch rectangle of XPS foam. I've made small marks with a pen at every inch along the sides, as guides for cutting the grooves.
+Starting out, we need a 2x6-inch rectangle of 1/2-inch thick XPS insulation foam. I've made small marks with a pen at every inch along the sides, as guides for cutting the grooves.
 
 ![initial](initial.jpg)
 
