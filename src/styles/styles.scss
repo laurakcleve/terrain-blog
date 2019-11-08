@@ -2,7 +2,8 @@ body {
   margin: 0;
   background-color: #3e3c3a;
   color: #dfd9d1;
-  font-family: 'Sarabun'
+  font-family: 'Sarabun';
+  box-sizing: border-box;
 }
 
 h2 {
@@ -14,7 +15,7 @@ a {
   text-decoration: none;
 }
 
-p {
+p, li {
   color: #dfd9d1;
   line-height: 1.7rem;
 }
@@ -40,10 +41,17 @@ header {
 
   .wrapper {
     display: flex;
-    align-items: center;
+    align-items: flex-end;
+    justify-content: space-between;
     height: 12vh;
     max-width: 575px;
     margin: 0 auto; 
+
+    & > div {
+      height: 100%;
+      display: flex;
+      align-items: center;
+    }
 
     @media (min-width: 768px) {
       max-width: 700px;
@@ -59,12 +67,33 @@ a.logo {
   display: flex;
   align-items: center;
   height: 100%;
-  padding: 0.8rem;
+  margin-right: 40px;
 
   svg {
     height: 70%;
   }
 }
+
+.line {
+  height: 50%;
+}
+
+.tagline {
+  margin-left: 25px;
+  color: #3e3c3a;
+  font-size: 14px;
+  letter-spacing: 0.04rem;
+}
+
+nav {
+  text-transform: uppercase;
+  padding: 1rem 0 0.7rem 1rem;
+
+  a {
+    color: #3e3c3a;
+  }
+}
+
 /////////////////////
 
 .post-item a {
@@ -223,4 +252,60 @@ h4 {
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 0.15rem;
+}
+
+
+form {
+  label {
+    display: block;
+
+    span {
+      display: block;
+      margin-bottom: 0.5rem;
+    }
+  }
+
+  input {
+    border: none;
+    border-radius: 3px;
+    background-color: #514e4d;
+    color: #fff;
+    font-family: 'Sarabun';
+    padding: 0.6rem;
+    margin-bottom: 1rem;
+    width: 15rem;
+    font-size: 1rem;
+  }
+
+  textarea {
+    display: block;
+    border: none;
+    border-radius: 3px;
+    color: #fff;
+    font-family: 'Sarabun';
+    padding: 1rem;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 1rem;
+    height: 10rem;
+    max-width: 25rem;
+
+    @media (min-width: 475px) {
+      height: 10rem;
+      width: 25rem;
+    }
+
+  }
+
+  button {
+    font-family: 'Sarabun';
+    border-radius: 3px;
+    border: none;
+    padding: 10px;
+    text-transform: uppercase;
+    background-color: #a35842;
+    color: #dfd9d1;
+    font-weight: bold;
+
+  }
 }
