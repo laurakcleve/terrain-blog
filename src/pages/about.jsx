@@ -12,7 +12,7 @@ const About = () => (
 
     <p>Shoot me a message here:</p>
 
-    <form name="contact" method="POST" data-netlify="true">
+    <form name="contact" method="POST" data-netlify="true" action="/form-success">
       <input type="hidden" name="form-name" value="contact" />
 
       <label htmlFor="name">
