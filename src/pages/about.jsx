@@ -9,8 +9,12 @@ const About = () => (
       Building terrain is my jam. I also love miniature painting, and plan to get
       some pictures up sometime soon.
     </p>
+
     <p>Shoot me a message here:</p>
-    <form method="POST" data-netlify="true">
+
+    <form name="contact" method="POST" data-netlify="true">
+      <input type="hidden" name="form-name" value="contact" />
+
       <label htmlFor="name">
         <span>Name</span>
         <input type="text" name="name" />
