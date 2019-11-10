@@ -22,12 +22,12 @@ const About = () => (
 
       <label htmlFor="email">
         <span>Email address</span>
-        <input type="text" name="email" />
+        <input type="text" name="email" required />
       </label>
 
       <label htmlFor="message">
         <span>Message</span>
-        <textarea name="message" />
+        <textarea name="message" required />
       </label>
 
       <button type="submit">Send</button>

@@ -18,8 +18,25 @@ const Layout = ({ children }) => {
             <Line className="line" />
             <div className="tagline">TABLETOP DIY</div>
           </div>
-          <nav>
+          <nav className="desktop">
+            <Link to="/">All posts</Link>
             <Link to="/about">About</Link>
+          </nav>
+          <nav className="mobile">
+            <div className="menu-toggle">
+              <input type="checkbox" />
+              <span />
+              <span />
+              <span />
+              <ul>
+                <li>
+                  <Link to="/">All posts</Link>
+                </li>
+                <li>
+                  <Link to="/about">About</Link>
+                </li>
+              </ul>
+            </div>
           </nav>
         </div>
       </header>
