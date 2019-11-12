@@ -61,7 +61,7 @@ module.exports = {
         short_name: `1d3Trees`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#e37a5c`,
+        theme_color: `#3e3c3a`,
         display: `minimal-ui`,
         icon: `content/assets/icon.png`,
       },
