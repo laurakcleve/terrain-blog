@@ -25,7 +25,7 @@ Then the base coat of mod podge/dark taupe paint went on.
 
 ![base-coat](base-coat.jpg)
 
-The pencil lines ae really hard to see here, but this is the outline for the rest of the river in this section.
+The pencil lines are really hard to see here, but this is the outline for the rest of the river in this section.
 
 ![full-outline](full-outline.jpg)
 
