@@ -28,14 +28,16 @@ const Layout = ({ children }) => {
               <span />
               <span />
               <span />
-              <ul>
-                <li>
-                  <Link to="/">All posts</Link>
-                </li>
-                <li>
-                  <Link to="/about">About</Link>
-                </li>
-              </ul>
+              <div className="menu-wrapper">
+                <ul>
+                  <li>
+                    <Link to="/">All posts</Link>
+                  </li>
+                  <li>
+                    <Link to="/about">About</Link>
+                  </li>
+                </ul>
+              </div>
             </div>
           </nav>
         </div>
