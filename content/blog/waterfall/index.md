@@ -71,7 +71,7 @@ I believe there is a DAP caulk that is actually crystal clear, but no one around
 
 So next I figured I was stuck with the clear sealant that was actually clear, and this time I was going to try it on plastic wrap, which is more crystally clear than a cheap sheet protector and should be a little more invisible after I cut the waterfall out.
 
-I thought maybe if I made sure the plastic wasn't able to shift at all during the drying time, it would eliminate the shrinkage wrinkles. So I tried another silly rig.
+I thought maybe if I made sure the plastic wasn't able to shift at all during the drying time, it would eliminate the shrinkage wrinkles. So I tried another silly rig, pulling the plastic wrap taut and pinning it down onto a piece of cardboard to keep it perfectly smooth.
 
 ![stretched-plastic-wrap-failure](stretched-plastic-wrap-failure.jpg)
 

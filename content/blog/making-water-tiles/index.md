@@ -5,6 +5,8 @@ description: "Making a river for our cavern dungeon"
 featuredImage: "./all-finished.jpg"
 ---
 
+![all-finished](all-finished.jpg)
+
 After finishing the [test water piece](../water-effects-prototype), it's time to make the river tiles that will fit into the finished cavern (More on the cave tiles [here](../cave-tile-system)).
 
 I had originally planned to make modular pieces of river to sit on top of the existing tiles, but since I hadn't come up with a good looking technique for texturing the outer edges (banks) of the river that I could get done in a short amount of time, I had to build the river right into the tiles.
