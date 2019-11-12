@@ -143,7 +143,7 @@ Out of all the tiles, there was only one that didn't leak. The rest had resin al
 
 But instead of just popping the foam pieces off, I had to carve them away since they were pretty nicely welded to the tiles now.
 
-My use-heavy-things method failed me on this one; the foam ended up at an angle and left a gap in the bottom that filled entirely with resin.
+My use-heavy-things-as-clamps method failed me on this one; the foam ended up at an angle and left a gap in the bottom that filled entirely with resin.
 
 ![terrible-finished-edge-2](terrible-finished-edge-2.jpg)
 
@@ -157,8 +157,10 @@ The curvy edges had some rough spots, but they turned out okay, all things consi
 
 ![curved-finished-edge](curved-finished-edge.jpg)
 
+I painted over the spots where I couldn't chip off the last bits of foam and tacky, and called it good.
+
 ![all-finished](all-finished.jpg)
 
-These tiles aren't really modular anymore, but it seemed like a worthy sacrifice.
+These tiles aren't really modular anymore, since they'll really only fit together in this configuration from now on, but it seemed like a worthy sacrifice.
 
 ![full-setup](full-setup.jpg)

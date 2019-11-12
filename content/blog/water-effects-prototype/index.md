@@ -105,7 +105,7 @@ Paints used:
 
 This is the same painting process we used on our cave tiles; it matches okay, but the difference in texture here does make it stand out from the tiles quite a bit.
 
-It's finally time to pour the resin. I used the Acrylic Water Kit from SimpleStyle, the same stuff used in this [Black Magic Craft water effects tutorial](https://www.youtube.com/watch?v=9ZthDfZoxt4).
+It's finally time to pour the resin. I used the Acrylic Water Kit from SimpleStyle, the same stuff used in this <a href="https://www.youtube.com/watch?v=9ZthDfZoxt4" target="_blank" rel="noopener noreferrer">Black Magic Craft water effects tutorial</a>.
 
 ![Resin 1](resin-1.jpg)
 
