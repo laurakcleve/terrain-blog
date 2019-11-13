@@ -16,7 +16,7 @@ This post is the tale of the creation of our cavern tile set for tabletop dungeo
 
 As a short introduction, I got into D&D with my husband Jimmy about a year and a half ago, and we started getting into making terrain 8 or 9 months ago. For this first campaign, everyone in our group was brand new, and Jimmy took up the mantle of DM. Being a player in the campaign, but still really really wanting to do the terrain anyway, I had to do what I could while knowing as little as possible about the dungeon we were making it for. I got the full story after the campaign was over, and have detailed the crafting journey here in its entirety.
 
-As such, this post ended up being quite long. I go through how we started out, decisions that were made about the design of the whole set, some details about the actual building (but not the actual crafting process, you can find links to that below), the problems we faced, and more. I've added some jump links below for your convenience.
+As such, this post ended up being spectacularly long. It's a deep dive into everything from how we started out, decisions that were made about the design of the whole set, some details about the actual building (but not the actual crafting process, you can find links to that below), down to the problems we faced, and more. I've added some jump links below for your convenience.
 
 Also, click the image links to see them at full resolution. Some have much better detail, and unfortunately some that I took with my potato phone don't look better at all.
 
