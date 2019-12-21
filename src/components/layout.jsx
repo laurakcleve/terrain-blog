@@ -11,25 +11,47 @@ const Layout = ({ children }) => {
     <>
       <header>
         <div className="wrapper">
-          <div>
-            <Link to="/" className="logo">
+          <div className="logo">
+            <Link to="/">
               <Logo />
             </Link>
             <Line className="line" />
             <div className="tagline">TABLETOP DIY</div>
           </div>
-          <nav className="desktop">
-            <Link to="/">All posts</Link>
-            <Link to="/about">About</Link>
-          </nav>
+          <div className="links">
+            <div className="social-media">
+              <a
+                href="https://www.instagram.com/1d3trees/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="instagram-icon"
+              >
+                <i className="fab fa-instagram fa-2x" />
+              </a>
+            </div>
+            <nav className="desktop">
+              <Link to="/">All posts</Link>
+              <Link to="/about">About</Link>
+            </nav>
+          </div>
           <nav className="mobile">
             <div className="menu-toggle">
               <input type="checkbox" />
-              <span />
-              <span />
-              <span />
+              <span className="hamburger-line" />
+              <span className="hamburger-line" />
+              <span className="hamburger-line" />
               <div className="menu-wrapper">
                 <ul>
+                  <li>
+                    <a
+                      href="https://www.instagram.com/1d3trees/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <i className="fab fa-instagram fa-lg" />
+                      <span>@1d3trees</span>
+                    </a>
+                  </li>
                   <li>
                     <Link to="/">All posts</Link>
                   </li>

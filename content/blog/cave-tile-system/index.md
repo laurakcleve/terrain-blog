@@ -108,7 +108,7 @@ See the making of the pillars [here](../stone-pillars).
 
 ## The Cool Features
 
-#### Magnets
+<h3 class="subheading">Magnets</h3>
 
 Each piece connects magnetically every two inches along the inside edges. Instead of putting magnets directly into the tiles, we screwed in small screws, and use loose magnets between them as needed; this way, we don’t have to worry about trying to match the polarity between different tiles.
 
@@ -118,7 +118,7 @@ We haven’t found a good magnet solution for the square block tiles, because th
 
 ![block-tile-magnet-situation](block-tile-magnet-situation.jpg)
 
-#### Mixing and matching
+### Mixing and matching
 
 The tiles are made to connect to pieces with the same edge sizes, as shown here.
 
@@ -128,7 +128,7 @@ But you can also mix it up and combine multiple tiles on an edge, like below.
 
 ![mixing-edges](mixing-edges.jpg)
 
-#### Grid
+### Grid
 
 We wanted some kind of indicators for a grid, to keep track of movement and range and such while doing battle, but an actual grid of lines sounded like it would really ruin our look. Instead we took some inspiration from some of the official Dungeon Tiles Reincarnated:
 

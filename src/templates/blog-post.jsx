@@ -16,7 +16,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
-      <h2 className="post-page-title">{post.frontmatter.title}</h2>
+      <h1>{post.frontmatter.title}</h1>
       <p className="post-page-date">{post.frontmatter.date}</p>
       <div
         // eslint-disable-next-line react/no-danger

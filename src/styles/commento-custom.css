@@ -2,6 +2,25 @@
   margin-top: 30px;
 }
 
+.commento-root .commento-logged-container {
+  display: flex;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  height: unset !important;
+}
+
+.commento-root .commento-logged-container .commento-logged-in-as {
+  flex: 1 0 12rem;
+}
+
+.commento-root .commento-logged-container .commento-logged-in-as .commento-name {
+  cursor: auto;
+}
+
+.commento-root .commento-logged-container .commento-profile-button {
+  float: none;
+}
+
 .commento-root * {
   font-family: 'Sarabun' !important;
 }

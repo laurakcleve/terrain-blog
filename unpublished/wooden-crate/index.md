@@ -2,6 +2,7 @@
 title: Wooden Crate
 date: "2019-08-27"
 description: "A generic wooden crate"
+featuredImage: "./first-block.jpg"
 ---
 
 ![first-block](first-block.jpg)
