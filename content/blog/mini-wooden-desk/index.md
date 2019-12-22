@@ -15,7 +15,7 @@ The old table:
 
 Not bad, and pretty sturdy, but it was really hard to get a good texture on them. Carving in some extra wood grain took most of the total build time, because the sticks were too hard to get in very deep with the sculpting tool I was using. And at the end, they still were very obviously popsicle sticks. 
 
-So later, when we needed some scatter for a wizard's study kind of room, I used only foam for all the wood pieces. The downside is that foam pieces this small weight barely anything, but so far this hasn't been a problem for our gameplay. I'll take the tradeoff for more control over the shape and texture. 
+So later, when we needed some scatter for a wizard's study kind of room, I used only foam for all the wood pieces. The downside is that foam pieces this small weigh barely anything, but so far this hasn't been a problem for our gameplay. I'll take the tradeoff for more control over the shape and texture. 
 
 I picked out a small scrap to start with.
 
