@@ -1,6 +1,6 @@
 ---
 title: "Guest Post: Dungeon Walls"
-date: "2019-12-20"
+date: "2019-12-07"
 description: "Our DM shows his process for making some modular walls/ruins"
 featuredImage: "./some-finished-pieces.jpg"
 ---
