@@ -1,7 +1,7 @@
 ---
 title: A first attempt at a crate
 date: "2020-02-03"
-description: "A generic wooden crate"
+description: "A plain old box"
 featuredImage: "./thumbnail.jpg"
 ---
 
