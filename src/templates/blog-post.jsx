@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link, graphql } from 'gatsby'
 import PropTypes from 'prop-types'
-import { DiscussionEmbed } from 'disqus-react'
+import { Disqus } from 'gatsby-plugin-disqus'
 
 import Layout from '../components/layout'
 import SEO from '../components/seo'
@@ -9,6 +9,12 @@ import SEO from '../components/seo'
 const BlogPostTemplate = ({ data, pageContext }) => {
   const post = data.markdownRemark
   const { previous, next } = pageContext
+
+  const disqusConfig = {
+    identifier: post.fields.slug,
+    title: post.frontmatter.title,
+    url: data.site.siteMetadata.siteUrl + post.fields.slug,
+  }
 
   return (
     <Layout>
@@ -45,14 +51,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
         Home
       </Link>
 
-      <DiscussionEmbed
-        shortname={process.env.GATSBY_DISQUS_NAME}
-        config={{
-          identifier: post.fields.slug,
-          title: post.frontmatter.title,
-          url: data.site.siteMetadata.siteUrl + post.fields.slug,
-        }}
-      />
+      <Disqus config={disqusConfig} />
     </Layout>
   )
 }

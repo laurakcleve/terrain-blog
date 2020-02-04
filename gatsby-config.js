@@ -77,5 +77,11 @@ module.exports = {
       },
     },
     `gatsby-plugin-sass`,
+    {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+        shortname: `1d3trees`,
+      },
+    },
   ],
 }
