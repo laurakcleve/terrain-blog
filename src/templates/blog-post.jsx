@@ -1,10 +1,10 @@
 import React from 'react'
 import { Link, graphql } from 'gatsby'
 import PropTypes from 'prop-types'
+import { DiscussionEmbed } from 'disqus-react'
 
 import Layout from '../components/layout'
 import SEO from '../components/seo'
-import Comments from '../components/comments'
 
 const BlogPostTemplate = ({ data, pageContext }) => {
   const post = data.markdownRemark
@@ -45,7 +45,10 @@ const BlogPostTemplate = ({ data, pageContext }) => {
         Home
       </Link>
 
-      <Comments id={data.markdownRemark.id} />
+      <DiscussionEmbed
+        shortname={process.env.GATSBY_DISQUS_NAME}
+        config={{ identifier: post.fields.slug, title: post.frontmatter.title }}
+      />
     </Layout>
   )
 }
@@ -61,6 +64,9 @@ BlogPostTemplate.propTypes = {
       }).isRequired,
       html: PropTypes.string.isRequired,
       id: PropTypes.string.isRequired,
+      fields: PropTypes.shape({
+        slug: PropTypes.string.isRequired,
+      }).isRequired,
     }),
     site: PropTypes.shape({
       siteMetadata: PropTypes.shape({
@@ -107,6 +113,9 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+      }
+      fields {
+        slug
       }
     }
   }
