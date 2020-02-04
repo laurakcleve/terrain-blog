@@ -1,7 +1,7 @@
 ---
-title: Small Barrel
-date: "2019-11-09"
-description: "Making a foam barrel that is actually a little too small"
+title: Really Small Barrel
+date: "2020-01-29"
+description: "This foam barrel is actually a little too small"
 featuredImage: "./thumbnail.jpg"
 ---
 
@@ -55,38 +55,76 @@ It didn't go well. I had nothing to hold everything in place well enough. Even t
 
 ![end-sort-of-glued](end-sort-of-glued.jpg)
 
+I needed something inside to hold the structure together. So I took measurements of everything I had so far to try and design something.
+
 ![all-the-measurements](all-the-measurements.jpg)
 
-![core-pieces](core-pieces.jpg)
+And here it is, a state-of-the-art barrel core. (It's wider in the middle to maintain the curved shape of a barrel.)
 
 ![core](core.jpg)
 
+I popped off one of the ends I had previously tried to glue in, stuck the core inside, and found that I didn't even need to put the end piece back on, since I had made the core a little too tall.
+
 ![core-inserted](core-inserted.jpg)
+
+After that it was much easier to get everything glued together.
 
 ![all-glued](all-glued.jpg)
 
+Goblin for scale. Pro tip: don't use a goblin for scale, use a regularly sized humanoid. This looks fine now, but on the table with player minis, it definitely runs a little small.
+
 ![goblin-scale](goblin-scale.jpg)
+
+Back to more texturing, I drew in the planks and the wood grain on the top and bottom.
 
 ![end-wood-pattern](end-wood-pattern.jpg)
 
+With the wooden part finished, I cut some tiny strips of regular cardstock to serve as the metal rings around each end.
+
 ![prepping-a-ring](prepping-a-ring.jpg)
+
+Using a toothpick and tweezers I managed to get some white glue on them and stick them on.
 
 ![rings-on](rings-on.jpg)
 
+Finally, time for painting. This is a coat of mod podge mixed with a tan paint.
+
+![base-coat](base-coat.jpg)
+
+Because the detailing and texture on the foam is so faint, I skipped a second coat of the base color and went straight to a dark brown wash.
+
 ![wash](wash.jpg)
+
+The first wash faded quite a bit after it dried.
 
 ![wash-dried](wash-dried.jpg)
 
+So I did another one, and laid it on pretty heavy. 
+
 ![second-wash](second-wash.jpg)
+
+After that I added some highlights. I wanted a more weathered look, so I mixed some grey into my tan that I used for the base coat.
 
 ![highlights](highlights.jpg)
 
+To add even more darkness around the rings and in the cracks between the planks, I used a small brush and added more brown wash to those crevices.
+
 ![even-more-wash](even-more-wash.jpg)
+
+For the rings, I got out my mini paints and used a metallic grey (GW Leadbelcher).
 
 ![silver-rings](silver-rings.jpg)
 
+And then it seemed like the perfect time to use some of that Typhus Corrosion that I have used exactly once. It was a little tricky because I didn't want to just cover the metal entirely. I tried to stick to the center of the rings so that the edges would remain silver and have kind of a worn look to them.
+
 ![metal-corrosion](metal-corrosion.jpg)
 
+Now that the finishing touches are done, time to see how it looks with everything else.
+
 ![final-2](final-1.jpg)
+
+😓 So small.
+
+On the bright side, I can go and make some bigger ones now, and they'll be so much easier. Maybe I'll use this tiny guy as part of a pile of crates and barrels or something, so he doesn't get lost.
 
 ![final](final.jpg)
