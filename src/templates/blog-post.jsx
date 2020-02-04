@@ -47,7 +47,11 @@ const BlogPostTemplate = ({ data, pageContext }) => {
 
       <DiscussionEmbed
         shortname={process.env.GATSBY_DISQUS_NAME}
-        config={{ identifier: post.fields.slug, title: post.frontmatter.title }}
+        config={{
+          identifier: post.fields.slug,
+          title: post.frontmatter.title,
+          url: 'https://1d3trees.com',
+        }}
       />
     </Layout>
   )
