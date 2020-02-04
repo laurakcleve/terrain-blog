@@ -50,7 +50,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
         config={{
           identifier: post.fields.slug,
           title: post.frontmatter.title,
-          url: 'https://1d3trees.com',
+          url: data.site.siteMetadata.siteUrl + post.fields.slug,
         }}
       />
     </Layout>
@@ -76,6 +76,7 @@ BlogPostTemplate.propTypes = {
       siteMetadata: PropTypes.shape({
         author: PropTypes.string.isRequired,
         title: PropTypes.string.isRequired,
+        siteUrl: PropTypes.string.isRequired,
       }),
     }),
   }).isRequired,
@@ -107,6 +108,7 @@ export const pageQuery = graphql`
       siteMetadata {
         title
         author
+        siteUrl
       }
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
