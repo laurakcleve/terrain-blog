@@ -1,23 +1,23 @@
 ---
-title: Really Small Barrel
-date: "2020-01-29"
-description: "This foam barrel is actually a little too small"
+title: A Devilishly Small Barrel
+date: "2020-04-16"
+description: "Maybe even too small. At least it's all downhill from here."
 featuredImage: "./thumbnail.jpg"
 ---
 
-I had a really hard time finding resources for making miniature barrels. 
+![final](thumbnail.jpg)
 
-This is the first attempt, so the process is sort of haphazard.
+I had a disappointingly hard time finding resources online for making miniature barrels. Many were straight cylinders, without an outward curve to them, and the rest were too big or too bulky, or weirdly shaped, and I just didn't like the look of them. So I had to strike out into the unknown, and try something new.
 
-I apologize in advance for many of the pictures being out of focus. My efforts at trying to be a photographer were not enough to cure the potato-ness of my phone at such a small scale.
+This is the first attempt, so the process is somewhat haphazard. I also apologize in advance for the poor quality of many of the pictures. My efforts at trying to be a photographer were not enough to cure the potato-ness of my phone at such a small scale.
 
-I found this papercraft template online. I printed it at two sizes: one to make a 1/2" tall barrel and the other closer to 3/4" high. The first wooden crate I made was 1/2" tall, so I thought, well, might as well just make the barrel the same. I added the 3/4" printout as a backup because 1/2" seemed incredibly small. And it definitely was.
+I did glean one important thing from my online search: I found this papercraft template. No way am I going to know how to figure out the exact curvature of each plank of a barrel. I printed it out at two sizes: one to make a 1/2" tall barrel and the other closer to 3/4" high. The wooden crate I made was 1/2" tall, so I thought, well, might as well just make the barrel the same. I added the 3/4" printout as a backup because 1/2" seemed incredibly small. And it definitely was.
 
 ![template](template.jpg)
 
 ![template-cutout](template-cutout.jpg)
 
-Here's the piece of foam I cut for making the barrel. It's a little less than 1/32" thick, I think. (I really need a metric ruler.)
+Here's the piece of foam I cut to trace the pattern onto. I sliced a scrap piece vertically on the hot wire table.
 
 ![thickness-of-the-foam](thickness-of-the-foam.jpg)
 
@@ -35,11 +35,11 @@ To make it look like the barrel is made out of separate planks of wood, I used m
 
 ![first-lines](first-lines.jpg)
 
-And then I made some even more shallow lines running vertically for the wood grain texture. Honestly it felt like the structural integrity of this little scrap of foam was just about destroyed at this point.
+And then I made some even more shallow lines running vertically for the wood grain texture. It felt like the structural integrity of this little scrap of foam was just about destroyed at this point.
 
 ![wood-pattern](wood-pattern.jpg)
 
-From the same starting piece of foam, I used an exacto knife to cut out the circles for the top and bottom of the barrel.
+From the same starting piece of foam, I used my exacto knife to cut out the circles for the top and bottom of the barrel.
 
 ![template-top-placement](template-top-placement.jpg)
 
@@ -59,7 +59,7 @@ I needed something inside to hold the structure together. So I took measurements
 
 ![all-the-measurements](all-the-measurements.jpg)
 
-And here it is, a state-of-the-art barrel core. (It's wider in the middle to maintain the curved shape of a barrel.)
+And here it is, a state-of-the-art barrel core. Comprised of three high tech cylinders; one wide cylinder in the middle, two narrower ones on the top and bottom.
 
 ![core](core.jpg)
 
@@ -67,7 +67,7 @@ I popped off one of the ends I had previously tried to glue in, stuck the core i
 
 ![core-inserted](core-inserted.jpg)
 
-After that it was much easier to get everything glued together.
+After that it was much easier to get everything glued, as I could just squish the pieces of this poor scrap as much as I needed to.
 
 ![all-glued](all-glued.jpg)
 
@@ -99,7 +99,7 @@ The first wash faded quite a bit after it dried.
 
 ![wash-dried](wash-dried.jpg)
 
-So I did another one, and laid it on pretty heavy. 
+So I did another one, and laid it on pretty heavy.
 
 ![second-wash](second-wash.jpg)
 
@@ -115,7 +115,7 @@ For the rings, I got out my mini paints and used a metallic grey (GW Leadbelcher
 
 ![silver-rings](silver-rings.jpg)
 
-And then it seemed like the perfect time to use some of that Typhus Corrosion that I have used exactly once. It was a little tricky because I didn't want to just cover the metal entirely. I tried to stick to the center of the rings so that the edges would remain silver and have kind of a worn look to them.
+And then it seemed like the perfect time to use some of that Typhus Corrosion that I have used exactly once since I bought it like a year ago. It was a little tricky because I didn't want to just cover the metal entirely. I tried to stick to the center of the rings so that the edges would remain silver and have kind of a worn look to them.
 
 ![metal-corrosion](metal-corrosion.jpg)
 
