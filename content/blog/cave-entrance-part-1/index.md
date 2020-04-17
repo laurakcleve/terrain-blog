@@ -1,8 +1,8 @@
 ---
-title: 'Cavern Entrance: Part 1'
-date: '2020-02-04'
-description: 'A bigger set piece with modular, themed stone pieces'
-featuredImage: './final-arch.jpg'
+title: "Cave Entrance: Part 1"
+date: "2020-03-27"
+description: "A bigger set piece with modular, themed stone pieces"
+featuredImage: "./final-arch.jpg"
 ---
 
 ![final-arch](final-arch.jpg)
@@ -13,9 +13,11 @@ So Jimmy, the resident DM, had an idea for his upcoming D&D one shot, and this 3
 
 ![inspiration](inspiration.jpg)
 
-But instead of the Nordic-like designs and runes, we'd make it demonic themed, to fit with the story of the ancient demons' caverns hidden beneath the cathedral that the corrupt church used for their nefarious purposes.
+<p class="caption">Source: <a href="https://www.turbosquid.com/3d-models/cave-entrance-cave-entrance-3d-obj/672618" target="_blank" rel="noopener noreferrer">bemola from Turbosquid</a></p>
 
-And there's no way we're going to build something as big as this and only use it once, so we decided we'd make the 'theme' of it changeable. We'll do this by making the front parts of the arch and the pillars on each side removable.
+But instead of these Nordic-like designs and runes, we'll make it demonic themed, to fit with the story of the ancient demons' caverns hidden beneath the cathedral that the corrupt church used for their nefarious purposes.
+
+And there's no way we're going to build something as big as this and only use it once, so we decided to make the theme of it changeable. We'll do this by making the front parts of the arch and the pillars on each side removable.
 
 It will make more sense as we actually get into it, so let's get into it.
 
@@ -69,7 +71,7 @@ And then trimmed off the excess again.
 
 ![rims-on](rims-on.jpg)
 
-Testing out the fit of the other arch. I don't think we'll attach the removable arch in any way, (like magnets or something) because it seems to be a tight enough fit just sitting there.
+Testing out the fit of the other arch. I don't think we'll attach the removable arch in any way, (like magnets or something) because it seems to be a secure enough fit just sitting there.
 
 ![arch-first-fit](arch-first-fit.jpg)
 
@@ -79,7 +81,7 @@ Here are the first couple blocks, nothing glued yet. I mostly eyeballed all the 
 
 ![first-blocks](first-blocks.jpg)
 
-Next is the largest central section of the pillars. The fronts of these will be removable, so I sliced about a quarter inch off.
+Next is the largest central section of the pillars. The fronts of these will be removable, so I sliced about a quarter inch off the front.
 
 ![modular-blocks-cut-1](modular-blocks-cut-1.jpg)
 
@@ -99,11 +101,11 @@ To add a little bevel to the blocks at the bottom, I cut them at an angle on the
 
 I admit that I spent a whole morning cutting the two angled pieces (one for each side). It's extremely tricky to match a particular length and width when you make the cuts at an angle.
 
-So finally here are all the blocks, top to bottom.
+And finally here are all the blocks, dry fit. I followed the reference image most of the way down, but then realized that the whole piece was getting _way_ too tall, and indeed was a little too tall already, and I had to just cut it short.
 
 ![top-to-bottom-blocks.jpg](top-to-bottom-blocks.jpg)
 
-The bulky blocks at the bases of the arch won't be removable so they won't have the themed demonic carvings on them, but they'd be too bare as they are. I picked out a design that looks somewhat generic to carve into them. And since I didn't trust myself freehanding it, I made a paper template for it. Couldn't think of any way to transfer the pattern onto the foam, so I lay the paper on top of the foam and poked tiny pinholes through to mark the corners.
+The bulky blocks at the bases of the arch won't be removable so they won't have the themed demonic carvings on them, but they'll be too bare just left as they are. I picked out a design that looks somewhat generic to carve into them. And since I didn't trust myself freehanding it, I made a paper template for it. Couldn't think of any way to transfer the pattern onto the foam, so I lay the paper on top of the foam and poked tiny pinholes through to mark the corners.
 
 ![template-holes](template-holes.jpg)
 
@@ -119,7 +121,7 @@ I made a similar pattern on the sides of these, the side that will be on the ins
 
 Now for the removable pieces. These will be held in place with magnets.
 
-On each front and back piece, I drew lines from corner to corner to find the exact center, then took one of my magnets (a small 1mmx5mm round) and pressed it down at the intersection to mark where it will go.
+On each front and back piece, I drew lines from corner to corner to find the exact center, then took one of my magnets (a small 1mmx5mm round) and pressed it down at the intersection to indent the spot where it will go.
 
 ![magnet-cross](magnet-cross.jpg)
 
@@ -191,6 +193,22 @@ I didn't even realize, even with how much I fretted over getting everything just
 
 ![arch-mistake](arch-mistake.jpg)
 
+I was ... a little upset with myself.
+
+The only recourse I could see for this failure was to just carve them again in the right places. Yeah it'll be harder to get a pencil in there, but I'll manage.
+
+Not 5 minutes into my toiling, I butterfingers-ed the whole arch onto the floor. 2 or 3 feet, not very high, onto the _carpet_, and one of the pillars snapped off. Maybe that tacky glue wasn't the best choice.
+
+After a short seething, I thought to myself, I'm _almost_ in a really good position here, it's kind of too bad both of the pillars didn't break off...
+
+So I broke the other pillar off.
+
 ![arch-broken](arch-broken.jpg)
 
+I hot glued them both back on on the right sides. Mission complete.
+
+(This is pre-pillar-demolition, I took all the nicer pictures beforehand.)
+
 ![arch-done](arch-done.jpg)
+
+Part one is finished, check out the [next part of this project](../cave-entrance-part-2/), where we build the foam base.
