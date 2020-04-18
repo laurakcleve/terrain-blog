@@ -121,7 +121,7 @@ And then it seemed like the perfect time to use some of that Typhus Corrosion th
 
 Now that the finishing touches are done, time to see how it looks with everything else.
 
-![final-2](final-1.jpg)
+![final-2](final-2.jpg)
 
 😓 So small.
 
