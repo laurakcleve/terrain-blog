@@ -1,15 +1,13 @@
 ---
 title: "Cave Entrance: Part 1"
-date: "2020-03-27"
+date: "2020-04-17"
 description: "A bigger set piece with modular, themed stone pieces"
 featuredImage: "./final-arch.jpg"
 ---
 
 ![final-arch](final-arch.jpg)
 
-Time for a bigger project. I've been really focused on modularity and small reusable pieces, pretty much since I've started making terrain, and I've had a growing itch to make something big and fancy.
-
-So Jimmy, the resident DM, had an idea for his upcoming D&D one shot, and this 3D model is closest to what he had in mind.
+So this post is going to split up into 3 parts. Maybe 4, I haven't gotten that far yet.
 
 ![inspiration](inspiration.jpg)
 
@@ -55,7 +53,7 @@ The big old nicks on the edges shouldn't matter, because they won't be showing.
 
 Now we'll glue some wide strips of foam to the sides of the back arch piece, to make kind of a frame for the front arch piece to sit in.
 
-The measurements of the width of the strips and the thickness of each arch are important here because the arch in front needs to line up with the rims a certain amount, not quite flush.
+The measurements of the width of the strips and the thickness of each arch, relative to each other, are important here because the arch in front needs to line up with the rims a certain amount, not quite flush.
 
 ![strips-for-arch-edges](strips-for-arch-edges.jpg)
 
@@ -105,7 +103,7 @@ And finally here are all the blocks, dry fit. I followed the reference image mos
 
 ![top-to-bottom-blocks.jpg](top-to-bottom-blocks.jpg)
 
-The bulky blocks at the bases of the arch won't be removable so they won't have the themed demonic carvings on them, but they'll be too bare just left as they are. I picked out a design that looks somewhat generic to carve into them. And since I didn't trust myself freehanding it, I made a paper template for it. Couldn't think of any way to transfer the pattern onto the foam, so I lay the paper on top of the foam and poked tiny pinholes through to mark the corners.
+The bulky blocks at the bases of the arch won't be removable so they won't have the themed demonic carvings on them, but they look too plain just left as they are. I picked out a design that looks somewhat generic to carve into them. And since I didn't trust myself freehanding it, I made a paper template for it. Couldn't think of any way to transfer the pattern onto the foam, so I lay the paper on top of the foam and poked tiny pinholes through to mark the corners.
 
 ![template-holes](template-holes.jpg)
 
@@ -121,11 +119,11 @@ I made a similar pattern on the sides of these, the side that will be on the ins
 
 Now for the removable pieces. These will be held in place with magnets.
 
-On each front and back piece, I drew lines from corner to corner to find the exact center, then took one of my magnets (a small 1mmx5mm round) and pressed it down at the intersection to indent the spot where it will go.
+On each front and back piece, I drew lines from corner to corner to find the exact center, then took one of my magnets (a small 1mmx5mm round) and pressed it down at the intersection to indent the spot where it will go. (Below is the back side of one of the removable pieces.)
 
 ![magnet-cross](magnet-cross.jpg)
 
-Then I carved out the circle with an exacto knife, trying to match the depth of the magnet.
+Then I carved out the circle with an exacto knife, trying to match the depth of the magnet. (This picture is the thicker back piece.)
 
 ![carved-magnet-spot](carved-magnet-spot.jpg)
 
@@ -157,7 +155,7 @@ As we come to the central modular blocks, we obviously only want to glue the bac
 
 ![first-magnets](first-magnets.jpg)
 
-For the front piece of the arch, I wanted to split it into 7 'blocks'. I traced around the arch onto some paper, and then used a protractor to mark the angles and draw the lines between them. Then I laid the arch back onto the paper and transfered the marks onto the edges of the foam.
+For the front piece of the arch, I wanted to split it into 7 'blocks'. I traced around the arch onto some paper, and then used a protractor to mark the angles and draw the lines between them. Then I laid the arch back onto the paper and transferred the marks onto the edges of the foam.
 
 ![arch-degree-calculations](arch-degree-calculations.jpg)
 
@@ -169,11 +167,11 @@ Moving over to the back piece of the arch, I laid the now-outlined removable arc
 
 ![arch-rims-lines-drawn](arch-rims-lines-drawn.jpg)
 
-I used tin foil to do the texturing. I skipped the giant rocks on this piece, it's a little too fragile to beat up.
+I used tin foil to do the texturing. I skipped the rocks on this piece, since it's a little too fragile.
 
 ![arch-rims-textured](arch-rims-textured.jpg)
 
-Here are the runes drawn in. These are characters from D&D's Infernal script. I just picked out random ones that looked cool. I used my blunt pencil to do most of it, then used the sharper compass tip to do the thinner parts and ends of the lines.
+Here are the runes drawn in. These are characters from D&D's Infernal script. I just picked out random ones that looked cool. I used my blunt pencil to do most of it, then used the sharper compass tip to do the thinner parts and tips of the lines.
 
 ![arch-symbols](arch-symbols.jpg)
 
