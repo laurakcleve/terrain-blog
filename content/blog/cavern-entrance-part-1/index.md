@@ -1,7 +1,7 @@
 ---
 title: "Cavern Entrance: Part 1"
-date: "2020-04-17"
-description: "A bigger set piece with modular, themed stone pieces"
+date: "2020-05-16"
+description: "The beginning: a stone arch with modular, theme-able pieces"
 featuredImage: "./final-arch.jpg"
 ---
 
