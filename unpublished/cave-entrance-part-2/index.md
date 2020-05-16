@@ -1,98 +1,172 @@
 ---
-title: "Cavern Entrance: Part 2"
-date: "2020-02-04"
+title: "Cave Entrance: Part 2"
+date: "2020-03-30"
 description: "A bigger set piece with modular, themed stone pieces"
 featuredImage: "./tunnel-base-and-arch.jpg"
 ---
 
+I printed out some oversized concentric circles to cut out and use as templates. There were at least 3 sheets printed out before this one, I had a tough time getting the scale right.
+
 ![steps-template](steps-template.jpg)
+
+The foam for the steps is about 1/4" thick; there will be 4 steps total, so the floor will end up about an inch high.
+
+This is the innermost circle, so the top step. I forgot that this piece is going to be basically a curved row of stones, so I actually needed another smaller circle printed inside this one.
 
 ![steps-template-placement](steps-template-placement.jpg)
 
+I nudged it over about half an inch and tried to use that for the second curve, but as you can see it didn't quite line up.
+
 ![steps-template-drawn](steps-template-drawn.jpg)
+
+I had to just fudge the lines and try to get a consistent width along the length of the piece, then I cut it out with an exacto knife.
 
 ![top-step-cut](top-step-cut.jpg)
 
+On the lower steps I only traced the outer line.
+
 ![step-drawn-2](step-drawn-2.jpg)
+
+This way I can stack the other steps on top.
 
 ![lower-step-cut](lower-step-cut.jpg)
 
+Here's the top two steps.
+
 ![top-and-lower-step](top-and-lower-step.jpg)
+
+All the step layers cut out.
 
 ![cut-steps-laid-out](cut-steps-laid-out.jpg)
 
 ![cut-steps-stacked](cut-steps-stacked.jpg)
 
+Behind the top step, that will be a single row of stones, will be the main floor piece, with a matching curve to fit.
+
+I took a bigger piece of foam, the normal 1/2" thick, and traced the inner curve of the top step onto it.
+
 ![floor-curve-traced](floor-curve-traced.jpg)
 
 ![floor-curve-cut](floor-curve-cut.jpg)
 
+With a few scraps for supports, here are the steps and the floor stacked together.
+
 ![cut-floor-pieces-stacked](cut-floor-pieces-stacked.jpg)
+
+To make the individual stones in the step pieces, I first drew the oulines very lightly. I started with the top step, and then continued down, spacing the lines halfway between the lines above, just a regular alternating brick pattern.
 
 ![steps-lightly-drawn](steps-lightly-drawn.jpg)
 
+Then with my exacto knife, made some shallow (maybe 1/8"?) cuts along them, as well as down the front.
+
 ![first-step-slicing](first-step-slicing.jpg)
+
+I used my blunt pencil to widen the gaps between the stones as much as I could.
 
 ![step-slices-widened](step-slices-widened.jpg)
 
+To take it further, I took some sandpaper and rounded off the edges even more. I also used the sandpaper to chisel out some chips in the stone, and add some overall unevenness.
+
 ![sanded-steps-stacked](sanded-steps-stacked.jpg)
+
+I still wasn't happy with how small the gaps between the stones were, so I painted a litle nail polish remover in all the cracks to widen them up some more. This was just my preference, and I was still experimenting with just about everything.
 
 ![first-steps-acetoned](first-steps-acetoned.jpg)
 
+Repeated on all the steps. You can see I overdid it in several places, which is okay because I'll be doing some filling in later on.
+
 ![all-steps-acetoned](all-steps-acetoned.jpg)
+
+Before we get to that though, let's get caught up on the stone floor piece. I'm starting out by drawing a 1-inch grid over the entire top surface.
 
 ![floor-lines-drawn](floor-lines-drawn.jpg)
 
+Then same as with the steps, made shallow cuts down each of the lines. I do this before using the ballpoint pen to prevent too much pulling and tearing.
+
+It's possible that I could have gone straight to using the nail polish remover here, but I didn't want to risk it untested, and I didn't really feel like taking the time to start over on a scrap piece.
+
 ![floor-lines-sliced](floor-lines-sliced.jpg)
+
+Here the lines have been widened with a pen.
 
 ![floor-lines-penned](floor-lines-penned.jpg)
 
+The main reason I go on to melt the gaps down more with acetone is to get rid of this weird problem that pops up when you cross lines. The very tips of the corners just get pushed over to one side, instead of becoming more rounded.
+
 ![squished-corners](squished-corners.jpg)
+
+So using a small brush, I painted over all the lines with the nail polish remover.
 
 ![floor-acetoned](floor-acetoned.jpg)
 
+Remembering, of course, to pour the nail polish remover into a glass or metal container, and not a plastic cup, because obviously nail polish remover is acetone, and will eat through plastic and dissolve paints and inks and all sorts of other things. Everyone knows that.
+
 ![acetone-shame](acetone-shame.jpg)
+
+_\*cough\*_
+
+So here's a closeup of the lines at this point. We have nice roughed-up edges (you can see I missed a spot in there, I went back later and got it) but the cuts I made with the exacto knife are still pretty prominent. The paint isn't going to magically fill those lines in, unfortunately. I have tried it. That's why we'll fill them in with some 'grout' later on.
 
 ![floor-cut-lines](floor-cut-lines.jpg)
 
+I skipped sanding down the edges of each stone the way I did the steps, because the acetone took care of all that, but I wanted to rough up some of the surfaces still.
+
 ![floor-sanded](floor-sanded.jpg)
+
+Then I drew in some cracks. I only did a few of the stones, and probably could have gotten away with doing more.
 
 ![floor-cracks](floor-cracks.jpg)
 
+And for the final step in my standard texturing process, rocks and tin foil.
+
 ![floor-textured](floor-textured.jpg)
+
+Same deal on the steps.
 
 ![steps-textured](steps-textured.jpg)
 
+Now for the 'grout'. I mixed up some plaster of paris and watered it down pretty heavily, to the point where it would kind of flow more easily into the cracks. It was pretty tedious, I scooped up a bit onto a tiny sculpting tool, spread it into a gap, and wiped away the excess.
+
 ![floor-grouted](floor-grouted.jpg)
 
+Repeat with the steps.
+
 ![steps-grouted](steps-grouted.jpg)
+
+The steps are now ready to be put together. The very bottom step wasn't quite long enough in the back to fully support the one above it, so I glued on an extra piece.
 
 ![bottom-step-extended](bottom-step-extended.jpg)
 
 ![bottom-two-steps](bottom-two-steps.jpg)
 
+After gluing on the second step, I cut the excess off the back so I could stick on a regular-thickness piece of foam to extend the base.
+
 ![bottom-two-steps-extended](bottom-two-steps-extended.jpg)
+
+And then on go the last two steps.
 
 ![all-steps-extended](all-steps-extended.jpg)
 
+(Somehow I'm missing a picture here with the floor piece added on, so we'll just have to move on.)
+
+With the base complete, it's time to start building up the cave opening.
+
+Without any better ideas, even though I kept feeling I should have been able to come up with some, I started out by gluing together stacks of scrap pieces of foam. Then I freehanded them through the hot wire cutter to chisel away some of the corners, and try to round them off.
+
 ![first-tunnel-buildup](first-tunnel-buildup.jpg)
+
+Fortunately, this is just for structure, and none of this will be visible, so how it looks doesn't actually matter.
 
 ![full-tunnel-buildup](full-tunnel-buildup.jpg)
 
+Getting the last bits of the top of the arch to fit together was tricky.
+
 ![glass-support](glass-support.jpg)
+
+Once I had all the pieces cut, I glued all the stacked pieces together, but I didn't glue them together in the middle, at the top of the arch. I also havn't glued it to the base yet. In the pictures below the two sides are just balanced against each other. It looks atrocious now, but all I need is something that I can start gluing wood chips onto.
 
 ![tunnel-base](tunnel-base.jpg)
 
+This concludes all of the foam parts of this piece. At this point the pieces we have are the base (the floor and the steps), the decorated arch that we made in the previous post, and the left and right sides of the rock tunnel.
+
 ![tunnel-base-and-arch](tunnel-base-and-arch.jpg)
-
-![first-wood-chips](first-wood-chips.jpg)
-
-![wood-chips-progress-1](wood-chips-progress-1.jpg)
-
-![wood-chips-progress-2](wood-chips-progress-2.jpg)
-
-![tunnel-sides-together](tunnel-sides-together.jpg)
-
-![first-plaster-bits-1](first-plaster-bits-1.jpg)
-
-![first-plaster-bits-2](first-plaster-bits-2.jpg)
