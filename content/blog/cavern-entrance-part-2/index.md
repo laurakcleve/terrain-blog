@@ -1,11 +1,11 @@
 ---
-title: "Cave Entrance: Part 2"
+title: "Cavern Entrance: Part 2"
 date: "2020-03-30"
-description: "A bigger set piece with modular, themed stone pieces"
+description: "The journey continues"
 featuredImage: "./tunnel-base-and-arch.jpg"
 ---
 
-I printed out some oversized concentric circles to cut out and use as templates. There were at least 3 sheets printed out before this one, I had a tough time getting the scale right.
+I printed out some oversized concentric circles to cut out and use as templates. This is the fourth or fifth printout after trying out the size several times. I had a tough time getting the scale right.
 
 ![steps-template](steps-template.jpg)
 
