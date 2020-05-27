@@ -19,6 +19,8 @@ Everything we've made so far has either been very small, or made of small pieces
 
 <p class="caption">Source: <a href="https://www.turbosquid.com/3d-models/cave-entrance-cave-entrance-3d-obj/672618" target="_blank" rel="noopener noreferrer">bemola from Turbosquid</a></p>
 
+(For the uninitiated, a one-shot is a single self-contained adventure that usually runs start to finish in a single session, instead of a full campaign that is played over a longer period of time.)
+
 The premise of the one-shot (a cathedral heist) loosely influenced the decision for this terrain piece, and the terrain piece ended up influencing much of the story of the one-shot (secret caverns beneath the cathedral). We just wanted it to be demonic-themed instead of this nordic-like design.
 
 Of course there's no way we're going to build something as big and fancy as this and only use it once, so we decided to make the theme of it changeable. We'll do this by making the front parts of the arch and the pillars on each side removable, like so:
