@@ -5,9 +5,13 @@ description: "Part 3 of who knows how many"
 featuredImage: "./plaster-finished-1.jpg"
 ---
 
-Here is the point we're starting from:
+Here's what we made in the previous [part 2](../cavern-entrance-part-2):
 
 ![tunnel-base-and-arch](tunnel-base-and-arch.jpg)
+
+And here's where we'll be after this leg of the journey:
+
+![plaster-finished-1](plaster-finished-1.jpg)
 
 We'll use wood chips to create the rocky texture of the cavern. I got a giant bag of bark nuggets from the hardware store, since giant bags were all they had, and I'm sure I will never need another as long as I live. 
 
