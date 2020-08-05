@@ -1,5 +1,5 @@
 ---
-title: "Cave Entrance: Part 3"
+title: "Cavern Entrance: Part 3"
 date: "2020-08-04"
 description: "Finishing the structure: an awful lot of wood chips and plaster"
 featuredImage: "./plaster-finished-1.jpg"
