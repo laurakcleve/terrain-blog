@@ -5,14 +5,14 @@ description: "The journey continues: adding a stone tile base, and a wonky foam 
 featuredImage: "./tunnel-base-and-arch.jpg"
 ---
 
-- [Part 1: Building the arch](../cavern-entrance-part-1)
+- [Part 1: Building the arch](../cavern-entrance-part-1/)
 - Part 2: Creating the foam floor and structure (you are here)
-- [Part 3: Adding the wood chip and plaster rocks](../cavern-entrance-part-3)
-- [Part 4: Final step, painting](../cavern-entrance-part-4)
+- [Part 3: Adding the wood chip and plaster rocks](../cavern-entrance-part-3/)
+- [Part 4: Final step, painting](../cavern-entrance-part-4/)
 
 ![tunnel-base-and-arch](tunnel-base-and-arch.jpg)
 
-In this post we'll be adding the rest of the foam structure to our cavern entrance, as you see above, building around [the arch that we made in part 1](../cavern-entrance-part-1), that you see below.
+In this post we'll be adding the rest of the foam structure to our cavern entrance, as you see above, building around [the arch that we made in part 1](../cavern-entrance-part-1/), that you see below.
 
 ![arch](../cavern-entrance-part-1/final-arch.jpg)
 

@@ -7,7 +7,7 @@ featuredImage: "./final-setup.jpg"
 
 ![another-angle](another-angle.jpg)
 
-This is my attempt at making a removable/reusable waterfall for our [river tiles](../making-water-tiles), part of our [cavern tile system](../cave-tile-system).
+This is my attempt at making a removable/reusable waterfall for our [river tiles](../making-water-tiles/), part of our [cavern tile system](../cave-tile-system/).
 
 Usually these are made with actual water effects, or some kind of gloss gel medium, but I didn't want to spend the extra money so I decided to try out clear caulk.
 

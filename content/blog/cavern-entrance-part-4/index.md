@@ -5,9 +5,9 @@ description: "The journey at long last comes to an end"
 featuredImage: "./26-final-1.jpg"
 ---
 
-- [Part 1: Building the arch](../cavern-entrance-part-1)
-- [Part 2: Creating the foam floor and structure](../cavern-entrance-part-2)
-- [Part 3: Adding the wood chip and plaster rocks](../cavern-entrance-part-3)
+- [Part 1: Building the arch](../cavern-entrance-part-1/)
+- [Part 2: Creating the foam floor and structure](../cavern-entrance-part-2/)
+- [Part 3: Adding the wood chip and plaster rocks](../cavern-entrance-part-3/)
 - Part 4: Final step, painting (you are here)
 
 Here we are, all set for the final stretch. All the construction is finished and we're ready to paint.

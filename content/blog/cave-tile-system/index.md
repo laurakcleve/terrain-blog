@@ -31,13 +31,13 @@ Also, click the image links to see them at full resolution. Some have much bette
 
 - [Cave tiles](../making-a-cave-tile/)<i class="fas fa-external-link-alt fa-xs"></i>
 - [Rectangular dungeon tiles](../making-a-dungeon-tile/)<i class="fas fa-external-link-alt fa-xs"></i>
-- [Water tiles](../making-water-tiles)<i class="fas fa-external-link-alt fa-xs"></i>
+- [Water tiles](../making-water-tiles/)<i class="fas fa-external-link-alt fa-xs"></i>
 
 <p class='list-title'>And some of the extra pieces here:</p>
 
-- [Stone pillars](../stone-pillars)<i class="fas fa-external-link-alt fa-xs"></i>
-- [Waterfall](../waterfall)<i class="fas fa-external-link-alt fa-xs"></i>
-- [Small water pool (the water test)](../water-effects-prototype)<i class="fas fa-external-link-alt fa-xs"></i>
+- [Stone pillars](../stone-pillars/)<i class="fas fa-external-link-alt fa-xs"></i>
+- [Waterfall](../waterfall/)<i class="fas fa-external-link-alt fa-xs"></i>
+- [Small water pool (the water test)](../water-effects-prototype/)<i class="fas fa-external-link-alt fa-xs"></i>
 
 Our first D&D campaign lasted a little over a year. Since everyone was new, there was much exploring to be done. Starting out, our battle maps were drawn on grid paper, and we didn't even know that building your own terrain was even a thing. Our first exposure was <a href="https://www.youtube.com/channel/UC2Rlv-ug-mtnXuMwlpcqFgg" target="_blank" rel="noopener noreferrer">Black Magic Craft</a>, where we randomly found the video for building a ruined tower out of foam. After watching that we were immediately down the rabbit hole and bought a hot wire table and all the supplies we would need. For our first attempt we followed the <a href="https://www.youtube.com/watch?v=kxzUm3rFzBs" target="_blank" rel="noopener noreferrer">Basic Dungeon Tiles</a> video to craft a small set of our own tiles. We made different sizes to match our next dungeon, and it made for an extra awesome session. We felt so extravagant.
 
@@ -88,11 +88,11 @@ We spent almost 6 months in this dungeon (playing every other weekend, missing a
 
 For our final couple of sessions we wanted to take it up another notch, and we knew it would be super sweet to have some water tiles to make up the river running through the cave. I had wanted to make a small modular set of standalone river pieces that would sit on top of the tiles and be able to be used in different situations, but the process I came up with for making the banks of the river was too time-consuming to be feasible. It was a sort of last minute decision and we had less than a week to have it done. Instead I carved the river right into the tiles that the river would be running through.
 
-You can find the process for making the water prototype (that little pool on the left below) [here](../water-effects-prototype), and the process for the final water tiles [here](../making-water-tiles).
+You can find the process for making the water prototype (that little pool on the left below) [here](../water-effects-prototype/), and the process for the final water tiles [here](../making-water-tiles/).
 
 ![water-setup](water-setup.jpg)
 
-You can also find the making of the waterfall [here](../waterfall).
+You can also find the making of the waterfall [here](../waterfall/).
 
 We were also finishing up our very last block tiles around this time, the tiles that would make up the final boss room. To make them stand out from the rest of the tiles, we painted them the standard dungeon grey.
 
@@ -104,7 +104,7 @@ The aforementioned final boss room:
 
 ![final-boss-room](final-boss-room.jpg)
 
-See the making of the pillars [here](../stone-pillars).
+See the making of the pillars [here](../stone-pillars/).
 
 ## The Cool Features
 

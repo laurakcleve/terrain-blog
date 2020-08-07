@@ -7,7 +7,7 @@ featuredImage: "./sitting-on-cave-tiles.jpg"
 
 ![sitting-on-cave-tiles](sitting-on-cave-tiles.jpg)
 
-For our [cavern dungeon](../cave-tile-system) we needed some river tiles, and I had never done anything with water effects or resin before, so I needed some practice. For a first attempt, I decided a small pool would be easiest.
+For our [cavern dungeon](../cave-tile-system/) we needed some river tiles, and I had never done anything with water effects or resin before, so I needed some practice. For a first attempt, I decided a small pool would be easiest.
 
 I grabbed a scrap piece of XPS foam that seemed like a decent size.
 
@@ -131,7 +131,7 @@ The water level definitely dropped, but it's still a pretty nice piece.
 
 ![final](final.jpg)
 
-After completing this guy I went on to make the [river tiles](../making-water-tiles) that were the real purpose of this project.
+After completing this guy I went on to make the [river tiles](../making-water-tiles/) that were the real purpose of this project.
 
 I hadn't planned on this pool being used at all, but it ended up in the dungeon anyway.
 

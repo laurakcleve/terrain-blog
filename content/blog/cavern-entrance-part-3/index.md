@@ -5,16 +5,16 @@ description: "Finishing the structure: an awful lot of wood chips and plaster"
 featuredImage: "./plaster-finished-1.jpg"
 ---
 
-- [Part 1: Building the arch](../cavern-entrance-part-1)
-- [Part 2: Creating the foam floor and structure](../cavern-entrance-part-2)
+- [Part 1: Building the arch](../cavern-entrance-part-1/)
+- [Part 2: Creating the foam floor and structure](../cavern-entrance-part-2/)
 - Part 3: Adding the wood chip and plaster rocks (you are here)
-- [Part 4: Final step, painting](../cavern-entrance-part-4)
+- [Part 4: Final step, painting](../cavern-entrance-part-4/)
 
 Here's where we'll be after this leg of the journey:
 
 ![plaster-finished-1](plaster-finished-1.jpg)
 
-And here's where we're starting from, made in the previous [part 2](../cavern-entrance-part-2):
+And here's where we're starting from, made in the previous [part 2](../cavern-entrance-part-2/):
 
 ![tunnel-base-and-arch](tunnel-base-and-arch.jpg)
 

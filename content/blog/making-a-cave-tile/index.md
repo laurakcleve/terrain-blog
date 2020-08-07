@@ -7,7 +7,7 @@ featuredImage: "./final-setup.jpg"
 
 ![final-setup](final-setup.jpg)
 
-This post shows the process for making the natural cavern tiles from our modular [cave tile system](../cave-tile-system).
+This post shows the process for making the natural cavern tiles from our modular [cave tile system](../cave-tile-system/).
 
 These are made using 1/2-inch thick XPS insulation foam. The piece we're making in this post was first cut into a 4x6-inch rectangle, then the rough edges were cut freehand on the hot wire cutter.
 

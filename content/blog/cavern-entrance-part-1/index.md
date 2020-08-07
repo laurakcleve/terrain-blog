@@ -6,9 +6,9 @@ featuredImage: "./final-arch.jpg"
 ---
 
 - Part 1: Building the arch (you are here)
-- [Part 2: Creating the foam floor and structure](../cavern-entrance-part-2)
-- [Part 3: Adding the wood chip and plaster rocks](../cavern-entrance-part-3)
-- [Part 4: Final step, painting](../cavern-entrance-part-4)
+- [Part 2: Creating the foam floor and structure](../cavern-entrance-part-2/)
+- [Part 3: Adding the wood chip and plaster rocks](../cavern-entrance-part-3/)
+- [Part 4: Final step, painting](../cavern-entrance-part-4/)
 
 ![final-arch](final-arch.jpg)
 

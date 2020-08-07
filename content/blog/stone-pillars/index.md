@@ -21,7 +21,7 @@ Here are all the basic pieces cut out and ready to go. This project was great fo
 
 ![basic-blocks](basic-blocks.jpg)
 
-To make the brick pattern, I used the hot wire cutter to make a small indentation, the same way we make the grooves in our [dungeon tiles](../making-a-dungeon-tile). For these stacking blocks I make the grooves at two-thirds of the width of each block, on each of the sides. (Only for the center blocks, not for the larger blocks at the top and bottom of course.)
+To make the brick pattern, I used the hot wire cutter to make a small indentation, the same way we make the grooves in our [dungeon tiles](../making-a-dungeon-tile/). For these stacking blocks I make the grooves at two-thirds of the width of each block, on each of the sides. (Only for the center blocks, not for the larger blocks at the top and bottom of course.)
 
 ![wire-cutting-grooves](wire-cutting-grooves.jpg)
 
