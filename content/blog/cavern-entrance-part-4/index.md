@@ -1,5 +1,5 @@
 ---
-title: "Cave Entrance: Part 4"
+title: "Cavern Entrance: Part 4"
 date: "2020-08-07"
 description: "The journey at long last comes to an end"
 featuredImage: "./26-final-1.jpg"
