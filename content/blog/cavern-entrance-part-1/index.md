@@ -1,7 +1,7 @@
 ---
 title: "Cavern Entrance: Part 1"
-date: "2020-04-17"
-description: "A bigger set piece with modular, themed stone pieces"
+date: "2020-05-16"
+description: "The beginning: a stone arch with modular, theme-able pieces"
 featuredImage: "./final-arch.jpg"
 ---
 
@@ -18,6 +18,8 @@ Everything we've made so far has either been very small, or made of small pieces
 ![inspiration](inspiration.jpg)
 
 <p class="caption">Source: <a href="https://www.turbosquid.com/3d-models/cave-entrance-cave-entrance-3d-obj/672618" target="_blank" rel="noopener noreferrer">bemola from Turbosquid</a></p>
+
+(For the uninitiated, a one-shot is a single self-contained adventure that usually runs start to finish in a single session, instead of a full campaign that is played over a longer period of time.)
 
 The premise of the one-shot (a cathedral heist) loosely influenced the decision for this terrain piece, and the terrain piece ended up influencing much of the story of the one-shot (secret caverns beneath the cathedral). We just wanted it to be demonic-themed instead of this nordic-like design.
 

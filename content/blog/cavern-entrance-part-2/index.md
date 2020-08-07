@@ -1,6 +1,6 @@
 ---
 title: "Cavern Entrance: Part 2"
-date: "2020-05-17"
+date: "2020-05-27"
 description: "The journey continues: adding a stone tile base, and a wonky foam skeleton for the rocky tunnel"
 featuredImage: "./tunnel-base-and-arch.jpg"
 ---
@@ -27,7 +27,7 @@ This is the innermost circle, for the top step. I forgot that this piece is goin
 
 ![steps-template-placement](steps-template-placement.jpg)
 
-I nudged it back about half an inch and tried to use that for the second curve, but as you can see it didn't quite line up.
+I nudged the template back about half an inch and tried to use that for the second curve, but as you can see it didn't quite line up.
 
 ![steps-template-drawn](steps-template-drawn.jpg)
 
@@ -35,7 +35,7 @@ I had to just fudge the lines and try to get a consistent width along the length
 
 ![top-step-cut](top-step-cut.jpg)
 
-On the lower steps I only traced and cut the outer line.
+On the lower steps I traced and cut only the outer line.
 
 ![step-drawn-2](step-drawn-2.jpg)
 
@@ -61,7 +61,7 @@ With a few scraps for supports, here are the steps and the floor stacked togethe
 
 ![cut-floor-pieces-stacked](cut-floor-pieces-stacked.jpg)
 
-To make the individual stones in the step pieces, I first drew the outlines very lightly. I started with the top step, and then continued down, spacing the lines halfway between the lines above, in a regular alternating brick pattern.
+To make the individual stones in the step pieces, I first drew the outlines very lightly in pencil. I started with the top step, and then continued down, spacing the lines halfway between the lines above, in a regular alternating brick pattern.
 
 ![steps-lightly-drawn](steps-lightly-drawn.jpg)
 
@@ -71,7 +71,7 @@ Then with my exacto knife, made some shallow (maybe 1/8"?) cuts along them, as w
 
 I used my blunt pencil to widen the gaps between the stones as much as I could.
 
-To take it further, I took some sandpaper and rounded off the edges even more. I also used the sandpaper to chisel out some chips in the stone, and add some overall unevenness.
+To take it further, I took some sandpaper and rounded off the edges even more. I also used the sandpaper to dig out some chips in the stone, and add some overall unevenness.
 
 ![step-slices-widened](step-slices-widened.jpg)
 
@@ -85,7 +85,7 @@ Here it is repeated on all the steps. You can see I overdid it in several places
 
 ![all-steps-acetoned](all-steps-acetoned.jpg)
 
-Before we get to that though, let's get caught up on the stone floor piece. I'm starting out by drawing a 1-inch grid over the entire top surface.
+Before we get to that though, let's get caught up on the stone floor piece. I'm starting out by drawing a 1-inch grid over the entire surface.
 
 ![floor-lines-drawn](floor-lines-drawn.jpg)
 
@@ -99,7 +99,7 @@ Here the lines have been widened with a pen.
 
 ![floor-lines-penned](floor-lines-penned.jpg)
 
-The main reason I go on to melt the gaps down more with acetone is to get rid of this weird problem that pops up when you cross lines. The very tips of the corners just get pushed over to one side, instead of becoming more rounded.
+The main reason I go on to melt the gaps down more with acetone is to get rid of this problem that pops up when you cross lines. The very tips of the corners just get pushed over to one side, instead of becoming more rounded.
 
 ![squished-corners](squished-corners.jpg)
 
@@ -113,7 +113,7 @@ Remembering, of course, to pour the nail polish remover into a glass or metal co
 
 _\*cough\*_
 
-So here's a closeup of the lines at this point. We have nice roughed-up edges (you can see I missed a spot in there, I went back later and got it) but the cuts I made with the exacto knife are still pretty prominent. The paint isn't going to magically fill those lines in, unfortunately. I have tried it. That's why we'll fill them in with some "grout" later on.
+So here's a closeup of the lines at this point. We have nice roughed-up edges, but the cuts I made with the exacto knife are still pretty prominent. The paint isn't going to magically fill those lines in, unfortunately. I have tried it. That's why we'll fill them in with some "grout" later on.
 
 ![floor-cut-lines](floor-cut-lines.jpg)
 
@@ -133,7 +133,7 @@ Same deal with the texturing on the steps.
 
 ![steps-textured](steps-textured.jpg)
 
-Now for the "grout". I mixed up some plaster of paris and watered it down pretty heavily, to the point where it would flow more easily into the cracks. It was pretty tedious, I scooped up a bit onto a tiny sculpting tool, spread it into a gap, and wiped away the excess.
+Now for the "grout". I mixed up some plaster of paris and watered it down pretty heavily, to the point where it would flow more easily into the cracks. It was pretty tedious; I scooped up a bit onto a tiny sculpting tool, spread it into a gap, and wiped away the excess. Then rinsed and repeated about a hundred times. Thus is the curse of being meticulous.
 
 ![floor-grouted](floor-grouted.jpg)
 
@@ -159,7 +159,7 @@ And then on go the last two steps. I also had to add another extension onto the 
 
 With the base complete, it's time to start building up the cave opening.
 
-Without any better ideas, even though I kept feeling I should have been able to come up with some, I started out by gluing together stacks of scrap pieces of foam. Then I freehanded them through the hot wire cutter to chisel away some of the corners, and try to round them off.
+Devoid of any better ideas, I started out by gluing together stacks of scrap pieces of foam. Then I freehanded them through the hot wire cutter to chisel away some of the corners, and try to round them off.
 
 ![first-tunnel-buildup](first-tunnel-buildup.jpg)
 
@@ -171,7 +171,7 @@ Getting the last bits of the top of the arch to fit together was tricky.
 
 ![glass-support](glass-support.jpg)
 
-Once I had all the pieces cut, I glued all the stacked pieces together, but I didn't glue them together in the middle, at the top of the arch. I also haven't glued it to the base yet. In the pictures below the two sides are just balanced against each other. It looks atrocious now, but all I need is something that I can start gluing the rocks onto. (They aren't real rocks by the way, they'll be wood chips.)
+Once I had all the pieces cut, I glued all the stacked pieces together, but I didn't glue them together in the middle, at the top of the arch. I also haven't glued it to the base yet. In the pictures below the two sides are just balanced against each other. It looks atrocious now, but all I need is something that I can start gluing things onto.
 
 ![tunnel-base](tunnel-base.jpg)
 
