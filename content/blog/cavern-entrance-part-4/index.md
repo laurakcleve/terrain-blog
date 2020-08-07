@@ -1,9 +1,14 @@
 ---
 title: "Cave Entrance: Part 4"
-date: "2020-07-28"
-description: "The journey concludes"
+date: "2020-08-07"
+description: "The journey at long last comes to an end"
 featuredImage: "./26-final-1.jpg"
 ---
+
+- [Part 1: Building the arch](../cavern-entrance-part-1)
+- [Part 2: Creating the foam floor and structure](../cavern-entrance-part-2)
+- [Part 3: Adding the wood chip and plaster rocks](../cavern-entrance-part-3)
+- Part 4: Final step, painting (you are here)
 
 Here we are, all set for the final stretch. All the construction is finished and we're ready to paint.
 
@@ -41,7 +46,7 @@ Here's the brown wash I started with.
 
 ![08-first-wash-color](08-first-wash-color.jpg)
 
-I was really nervous about trying out a new technique, and had really no idea how it would turn out, but I needn't have worried. As it turned out, this was either not enough color, not by a long shot, or the brown should have gone on later, after other painting steps were completed. Spoiler: it's all going to basically disappear.
+I was really nervous about trying out a new technique, and had really no idea how it would turn out. I was pretty light handed with this color for that reason, but I needn't have worried. As it turned out, this was either not enough color, not by a long shot, or the brown should have gone on later, after other painting steps were completed. Spoiler: it's all going to basically disappear.
 
 ![09-first-brown-washing-1](09-first-brown-washing-1.jpg)
 
@@ -49,11 +54,11 @@ Added some color to some of the stone tiles as well.
 
 ![10-first-brown-washing-2](10-first-brown-washing-2.jpg)
 
-After that it was a black wash over the whole thing. The wash went on a lot differently than I expected. Really seems to disappear into the cracks.
+After that it was a black wash over the whole thing. The wash went on a lot differently than I expected. Really seemed to just disappear into the cracks.
 
 ![11-black-wash-1](11-black-wash-1.jpg)
 
-Not too bad after drying though.
+After drying, it looks okay I guess.
 
 ![12-black-wash-1-dried](12-black-wash-1-dried.jpg)
 
@@ -73,11 +78,7 @@ But the only way to fix it was to keep going, so I black-washed and I black-wash
 
 ![16-black-wash-2-back-1](16-black-wash-2-back-1.jpg)
 
-See the brown spots?
-
-No?
-
-Yeah they're just about gone now.
+By this point the brown is just about all gone.
 
 I could have done the brown wash thing again at this point, but I think I was too afraid of messing up what I'd spent so much time and near-failure getting to.
 
@@ -109,7 +110,7 @@ So I just used both of them randomly, pretty much over the whole piece. And on t
 
 ![25-dry-brush-done-3](25-dry-brush-done-3.jpg)
 
-And finally, we've reached the end. I'm always bad about keeping track of how long I spend working on each project, (or rather, I just don't remember to do it, ever) so I can only estimate based on the photos I took. From those I can gather that I worked on this on at least 25 different days, spread out over almost 3 months. Lots of down time on this one. And if I had to give it a number of hours that it took, that's a lot more guesstimating, and rounding when I probably shouldn't, but if I'm going off of pictures taken, I could _maybe_ put it at around 40-50 hours. Things like prepping the wood chips, creating and printing out paper templates, and whatever research and planning I did, I didn't keep track of, so I can really only add an arbitrary number of hours for those things.
+And finally, we've reached the end. I'm always bad about keeping track of how long I spend working on each project, (or rather, I just don't remember to do it, ever) so I can only estimate based on the photos I took. From those I can gather that I worked on this on 25 different days, give or take, spread out over almost 3 months. Lots of down time on this one. And if I had to give it a number of hours that it took, that's a lot more guesstimating, and rounding when I probably shouldn't, but if I'm going off of pictures taken, I could _maybe_ put it at around 40-50 hours. Things like prepping the wood chips, creating and printing out paper templates, and whatever research and planning I did, I didn't keep track of, so I can really only add an arbitrary number of hours for those things.
 
 Anyway, here's all the final shots.
 
@@ -121,7 +122,7 @@ Anyway, here's all the final shots.
 
 ![29-final-4](29-final-4.jpg)
 
-My final thoughts, mostly on the texture, are that overall it's pretty decent looking. It's not everything I hoped for, but I feel pretty okay about it. Some bits here and there I really like, and look like really cool actual rock formations, but stepping back and taking the whole thing in from certain angles, it just screams _wood chips_ at me. I think wood chips are better for smaller pieces, little outcroppings, and mini bases, but I don't think I'd use them again for a giant rock like this.
+My final thoughts, mostly on the texture, are that overall it's at least decent looking. It's not everything I hoped for, but I feel pretty okay about it. Some bits here and there I really like, and look like really cool actual rock formations, but stepping back and taking the whole thing in from certain angles, it just screams _wood chips_ at me. I think wood chips are better for smaller pieces, little outcroppings, and mini bases, but I don't think I'd use them again for a giant rock like this.
 
 ![30-final-5](30-final-5.jpg)
 
@@ -146,6 +147,8 @@ I do really like the way the interior of the tunnel contrasts with the outside.
 In the back I managed to blend it from black to white pretty smoothly.
 
 ![38-final-closeup-5](38-final-closeup-5.jpg)
+
+I have another set of pieces coming up soon, this next one is going to be Dwarven-themed.
 
 ![39-final-with-pieces-removed](39-final-with-pieces-removed.jpg)
 

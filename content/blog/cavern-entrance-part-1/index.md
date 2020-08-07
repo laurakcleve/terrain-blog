@@ -5,6 +5,11 @@ description: "The beginning: a stone arch with modular, theme-able pieces"
 featuredImage: "./final-arch.jpg"
 ---
 
+- Part 1: Building the arch (you are here)
+- [Part 2: Creating the foam floor and structure](../cavern-entrance-part-2)
+- [Part 3: Adding the wood chip and plaster rocks](../cavern-entrance-part-3)
+- [Part 4: Final step, painting](../cavern-entrance-part-4)
+
 ![final-arch](final-arch.jpg)
 
 Part 1 of this series of posts is going to detail the process of creating this first central piece, the arch that will be set into the stone of a cave.
@@ -13,7 +18,7 @@ And so you know what we're working towards, here is the final product:
 
 ![final-final](final-final.jpg)
 
-Everything we've made so far has either been very small, or made of small pieces. Lots of focus on modularity and reusability. I wanted to finally make something bigger, something a little crazy. Jimmy had a one-shot coming up that he was writing, and he found this 3D model for inspiration:
+All the terrain we've made so far has either been very small, or made of small pieces. Lots of focus on modularity and reusability. I wanted to finally make something bigger, something a little crazy. Jimmy had a one-shot coming up that he was writing, and he found this 3D model for inspiration:
 
 ![inspiration](inspiration.jpg)
 
@@ -135,7 +140,7 @@ Then I carved out the circle with an exacto knife, trying to match the depth of 
 
 ![carved-magnet-spot](carved-magnet-spot.jpg)
 
-I glued the magnets in with regular white glue. I have a notion that I should have used something stronger, but at the time I just couldn't think of anything. (Spoiler from the future: they worked out fine. Just don't stick the magnet-ed pieces together and try to pull them apart until the glue is 100% dry.) 
+I glued the magnets in with regular white glue. I have a notion that I should have used something stronger, but at the time I just couldn't think of anything. (Spoiler from the future: they worked out fine. Just don't stick the magnet-ed pieces together and try to pull them apart until the glue is 100% dry.)
 
 After that it was time to start on designing the removable faces. An image search for "demonic runes" turned up a whole lot of Doom pictures, so I grabbed one of those. Again, I didn't want to freehand it, so I printed a couple of them out at the proper scale and traced through them onto the foam with my trusty compass tip. (I didn't think the pinholes would work for this one.)
 

@@ -5,6 +5,11 @@ description: "Finishing the structure: an awful lot of wood chips and plaster"
 featuredImage: "./plaster-finished-1.jpg"
 ---
 
+- [Part 1: Building the arch](../cavern-entrance-part-1)
+- [Part 2: Creating the foam floor and structure](../cavern-entrance-part-2)
+- Part 3: Adding the wood chip and plaster rocks (you are here)
+- [Part 4: Final step, painting](../cavern-entrance-part-4)
+
 Here's where we'll be after this leg of the journey:
 
 ![plaster-finished-1](plaster-finished-1.jpg)
@@ -13,7 +18,7 @@ And here's where we're starting from, made in the previous [part 2](../cavern-en
 
 ![tunnel-base-and-arch](tunnel-base-and-arch.jpg)
 
-We'll start by using wood chips to create the texture of the rocks. I got a giant bag of bark nuggets from the hardware store, I think it was a 2-cubic-foot bag. It sure looks like a lot more than 2 cubic feet. I'll certainly never need to buy any more. You want the big nuggets in particular, not the finer mulch that looks like a bunch of twigs. 
+We'll start by using wood chips to create the texture of the rocks. I got a giant bag of bark nuggets from the hardware store, I think it was a 2-cubic-foot bag. It sure looks like a lot more than 2 cubic feet. I'll certainly never need to buy any more. You want the big nuggets in particular, not the finer mulch that looks like a bunch of twigs.
 
 Materials straight from the outdoors are great; they add a really nice touch of realism, but they need a little prep before coming to live in the place you sleep at night. You can use heat to kill any creepy crawlies that might be lurking, and for a bonus, get rid of the moisture in your wood. I'm no expert on this, but I did as much reading as I could on other builders' methods, and I decided to go with cooking them in the oven. The recommendation I came across suggested 200&deg; F for 10 minutes. I set my convection oven to 175&deg;, spread out some wood chips on a foil-lined baking sheet, and popped them in. I kept a very paranoid eye on them for a solid 15 minutes, half expecting them to burst into flame, even though I knew the temperature was low enough.
 
@@ -35,7 +40,7 @@ After doing that once, I ditched all the extra steps and just put on a pair of n
 
 ![wood-chips-progress-1](wood-chips-progress-1.jpg)
 
-These few pictures are actually spanning days. It wasn't full days of work, just a couple hours here and there, but this must have been the longest step. I wanted the rocks to be shaped like rocks, and not just look like wood chips, so I really agonized over the placement of each piece, holding it up to a potential spot, and then swapping it out for the next one from the bag, and then the next one, so on and so forth. I spent so much time not actually doing anything that I had to make myself just glue a random piece on in a random spot, and just deal with what came out. I had to force myself to do that continuously throughout the whole gluing process. 
+These few pictures are actually spanning days. It wasn't full days of work, just a couple hours here and there, but this must have been the longest step. I wanted the rocks to be shaped like rocks, and not just look like wood chips, so I really agonized over the placement of each piece, holding it up to a potential spot, and then swapping it out for the next one from the bag, and then the next one, so on and so forth. I spent so much time not actually doing anything that I had to make myself just glue a random piece on in a random spot, and just deal with what came out. I had to force myself to do that continuously throughout the whole gluing process.
 
 ![wood-chips-progress-2](wood-chips-progress-2.jpg)
 
@@ -119,7 +124,7 @@ How to fix this? I don't really know. When I held the corners down and flattened
 
 ![base-curling-fix-attempt-failure](base-curling-fix-attempt-failure.jpg)
 
-So I put various heavy objects on each of the corners, crammed more plaster into all the crevices, and let it dry like that. 
+So I put various heavy objects on each of the corners, crammed more plaster into all the crevices, and let it dry like that.
 
 The result: It helped a little, but it didn't eliminate the warp. But it was better, and not all that noticeable, so I didn't pursue the problem further.
 
@@ -133,7 +138,7 @@ I was then able to fit in some carefully selected wood chips to be the new floor
 
 Later I went back in with some more nail polish remover and plaster to create a more uneven and natural-looking transition between the tiles and the rock, which you can see in the later pictures.
 
-After the new floor was plastered in, the plastering was finally, at long last, finished. 
+After the new floor was plastered in, the plastering was finally, at long last, finished.
 
 Just the cleaning up left to do. I didn't spend much time smoothing out the plaster while it was still wet and moldable, so most of it was weirdly lumpy and didn't transition smoothly into the wood chips. With my sculpting tools I chiseled and scraped until it looked as rocky as I could make it. I didn't want to smooth it out entirely though, there were some rough and jagged parts that were better left as they were.
 
