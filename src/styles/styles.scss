@@ -425,6 +425,12 @@ p.post-page-date {
   padding: 10px;
   font-style: italic;
   color: $light-white;
+
+  ul {
+    margin: 10px 0 5px 20px;
+    padding: 0;
+    list-style-type: none;
+  }
 }
 
 svg.fa-external-link-alt {

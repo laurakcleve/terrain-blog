@@ -6,7 +6,7 @@ featuredImage: "./final-4.jpg"
 ---
 
 <div class="banner-note">
-  This is another guest post from our DM, Jacob. Check out his previous post on <a href="../guest-post-dungeon-walls">making dungeon walls</a> if you're interested.
+  This is another guest post from our DM, Jacob. Check out his previous post on <a href="../guest-post-dungeon-walls/">making dungeon walls</a> if you're interested.
 </div>
 
 ![final-6](final-6.jpg)
