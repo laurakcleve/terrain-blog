@@ -1,9 +1,59 @@
 ---
 title: Iron Black Orc Warlord
-date: "2020-08-13"
-description: "From Avatars of War"
-featuredImage: "./orc-01.jpg"
+date: "2020-09-12"
+description: ""
+featuredImage: "./thumbnail.jpg"
 category: "minis"
 ---
 
-Iron Black Orc Warlord, from Avatars of War
+![iron-black-orc-warlord](iron-black-orc-warlord.jpg)
+
+This is the <a href="https://en.avatars-of-war.com/collections/orcs-goblins/products/iron-black-orc-warlord-kit" target="_blank" rel="noopener noreferrer">Iron Black Orc Warlord, from Avatars of War</a>, painted by me. This mini actually comes as a kit, with two different heads, two one-handed axes, a shield, and a two-handed greataxe.
+
+This is definitely the most detailed miniature I have painted thus far. It was so time consuming to get to all the little bits, but that's what I appreciate in a mini.
+
+![orc-02](orc-02.jpg)
+
+![front](front.jpg)
+
+![back](back.jpg)
+
+![above-1](above-1.jpg)
+
+![above-2](above-2.jpg)
+
+![above-3](above-3.jpg)
+
+I could have gone with dual wielding axes or the big two-hander, but the shield was too cool to pass up.
+
+![shield-detail](shield-detail.jpg)
+
+This was a hard angle to get, but there are actually skulls hanging off the shield by their hair.
+
+![shield-skulls](shield-skulls.jpg)
+
+![axe-detail-1](axe-detail-1.jpg)
+
+![axe-detail-2](axe-detail-2.jpg)
+
+![front-details](front-details.jpg)
+
+I did the base at the very end, after I had already attached the mini and then painted the whole thing. I hadn't done very much with the bases on my previous minis, and I just wasn't thinking about it when I decided to glue the mini on at the start. So it was probably a lot more difficult than it needed to be.
+
+![base-detail-1](base-detail-1.jpg)
+
+![base-detail-2](base-detail-2.jpg)
+
+![base-detail-3](base-detail-3.jpg)
+
+I mixed joint compound with some fine sand, spread it all around, and then added some slightly larger sand and rocks on top.
+
+![basing-1](basing-1.jpg)
+
+![basing-2](basing-2.jpg)
+
+These are the only photos I have of the painting process. I started off with a base coat of orange that looked way too bright, but after some washes and dry brushing, turned out really nice.
+
+![basing-paint-1](basing-paint-1.jpg)
+
+![basing-paint-2](basing-paint-2.jpg)

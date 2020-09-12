@@ -7,7 +7,7 @@ const About = () => (
     <p>
       My name is Laura, and I&#39;m a new recruit to the world of tabletop gaming.
       Building terrain is my jam. I also love miniature painting, and plan to get
-      some pictures up sometime soon.
+      some more pictures up soon.
     </p>
 
     <p>Shoot me a message here:</p>
