@@ -1,10 +1,10 @@
-import React from 'react'
-import { Link } from 'gatsby'
-import PropTypes from 'prop-types'
+import React from "react";
+import { Link } from "gatsby";
+import PropTypes from "prop-types";
 
-import '../styles/styles.scss'
-import Logo from '../../content/assets/logo.svg'
-import Line from '../../content/assets/line.svg'
+import "../styles/styles.scss";
+import Logo from "../../content/assets/logo.svg";
+import Line from "../../content/assets/line.svg";
 
 const Layout = ({ children }) => {
   return (
@@ -31,7 +31,9 @@ const Layout = ({ children }) => {
             </div>
             <nav className="desktop">
               <Link to="/">All posts</Link>
-              <Link to="/about">About</Link>
+              <Link to="/terrain/">Terrain</Link>
+              <Link to="/minis/">Minis</Link>
+              <Link to="/about/">About</Link>
             </nav>
           </div>
           <nav className="mobile">
@@ -66,12 +68,14 @@ const Layout = ({ children }) => {
       </header>
       <main>{children}</main>
     </>
-  )
-}
+  );
+};
 
 Layout.propTypes = {
-  children: PropTypes.oneOfType([PropTypes.arrayOf(PropTypes.node), PropTypes.node])
-    .isRequired,
-}
+  children: PropTypes.oneOfType([
+    PropTypes.arrayOf(PropTypes.node),
+    PropTypes.node,
+  ]).isRequired,
+};
 
-export default Layout
+export default Layout;
