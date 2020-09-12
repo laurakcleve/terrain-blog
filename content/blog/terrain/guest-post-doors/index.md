@@ -3,6 +3,7 @@ title: "Guest Post: Doors"
 date: "2020-08-11"
 description: "From our DM: doors that fit between dungeon tiles (and swing open!)"
 featuredImage: "./16-final-4.jpg"
+category: "terrain"
 ---
 
 <div class="banner-note">
