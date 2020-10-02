@@ -1,7 +1,7 @@
 ---
 title: "Cavern Entrance: Dwarven Set"
 date: "2020-10-01"
-description: "The first extra set"
+description: "The first extra set of interchangeable pieces"
 featuredImage: "./thumbnail2.jpg" 
 category: "terrain"
 ---
