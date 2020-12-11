@@ -1,7 +1,7 @@
 ---
 title: "Stone altar"
-date: "2020-12-08"
-description: "Sacrifice your offerings here"
+date: "2020-12-11"
+description: "Sacrifice your offerings on these bits of plaster-smeared foam"
 featuredImage: "final-5.jpg"
 category: "terrain"
 ---
