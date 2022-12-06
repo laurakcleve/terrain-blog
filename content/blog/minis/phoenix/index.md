@@ -2,7 +2,7 @@
 title: The Phoenix
 date: "2022-11-26"
 description: ""
-featuredImage: "./thumbnail.jpg"
+featuredImage: "./final-1.jpg"
 category: "minis"
 ---
 
